@@ -2,9 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# What is a StomaStrap?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's introduce StomaStrap and find out if it is right for you.
+
+ **HINT: If you don't have a stoma, or deal with stomas in some professional capacity, StomaStrap is not for you**.
 
 ## Getting Started
 
