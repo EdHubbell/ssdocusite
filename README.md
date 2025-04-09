@@ -26,8 +26,10 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-From the ssdocusite folder, 
+From the ssdocusite folder in a Command window: 
+```
 cmd /C "set "GIT_USER=EdHubbell" && yarn deploy"
+```
 
 Using SSH:
 
