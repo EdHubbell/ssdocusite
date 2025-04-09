@@ -8,11 +8,10 @@ Let's introduce StomaStrap and find out if it is right for you.
 
  **HINT: If you don't have a stoma, or deal with stomas in some professional capacity, StomaStrap is not for you**.
 
-## Getting Started
+## The Basics
 
-Get started by **creating a new site**.
+StomaStrap is a device that attaches to an ostomy appliance and adds additional support  
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
 ### What you'll need
 

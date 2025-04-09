@@ -1,4 +1,4 @@
-# Website
+# StomaStrap Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
@@ -25,6 +25,9 @@ $ yarn build
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
+
+From the ssdocusite folder, 
+cmd /C "set "GIT_USER=EdHubbell" && yarn deploy"
 
 Using SSH:
 
