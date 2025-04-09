@@ -20,7 +20,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'EdHubbell', // Usually your GitHub org/user name.
   projectName: 'ssdocusite', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'deployment',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
