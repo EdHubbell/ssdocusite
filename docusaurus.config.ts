@@ -66,7 +66,7 @@ const config: Config = {
           containerId: 'GTM-NT7QM3P5',
         },
         gtag: {
-          trackingID: 'GTM-NT7QM3P5',
+          trackingID: ['GTM-NT7QM3P5','G-68XSQE47YJ'],
           anonymizeIP: true,
         },
       } satisfies Preset.Options,
@@ -89,7 +89,7 @@ const config: Config = {
     navbar: {
       title: 'StomaStrap',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'StomaStrap Logo',
         src: 'img/logo.svg',
       },
       items: [
