@@ -66,7 +66,7 @@ const config: Config = {
           containerId: 'GTM-NT7QM3P5',
         },
         gtag: {
-          trackingID: ['GTM-NT7QM3P5','G-68XSQE47YJ'],
+          trackingID: ['GTM-NT7QM3P5','G-68XSQE47YJ', 'GT-MBTLN7G2'],
           anonymizeIP: true,
         },
       } satisfies Preset.Options,
