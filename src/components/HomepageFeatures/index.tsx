@@ -12,31 +12,55 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/belt.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        StomaStrap uses a standard belt to secure your appliance.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Economical',
+    Svg: require('@site/static/img/savings.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Longer times between wafer changes saves you time and money. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Secure',
+    Svg: require('@site/static/img/safe.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Feel safe knowing your appliance is fastened securely. Get out and do what you love!
+      </>
+    ),
+  },
+  {
+    title: 'Discrete',
+    Svg: require('@site/static/img/sweater.svg').default,
+    description: (
+      <>
+        StomaStrap is slim, and hides well under your clothing. Fewer leaks means more confidence.
+      </>
+    ),
+  },
+  {
+    title: 'For Athletes',
+    Svg: require('@site/static/img/sports.svg').default,
+    description: (
+      <>
+        StomaStrap gives you support and protection - So you can get back in the game!
+      </>
+    ),
+  },
+  {
+    title: 'Strong',
+    Svg: require('@site/static/img/strong.svg').default,
+    description: (
+      <>
+        You've seen some s&!t. Ostomates are strong. Your bag support system should be too. 
       </>
     ),
   },

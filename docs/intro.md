@@ -4,45 +4,35 @@ sidebar_position: 1
 
 # What is a StomaStrap?
 
-Let's introduce StomaStrap and find out if it is right for you.
+Let's introduce StomaStrap and find out if it's the right ostomy appliance support system for you.
 
- **HINT: If you don't have a stoma, or deal with stomas in some professional capacity, StomaStrap is not for you**.
+ **HINT: If you have a stoma, or help someone who has one, StomaStrap might be for you.**.
 
 ## The Basics
 
-StomaStrap is a device that attaches to an ostomy appliance and adds additional support  
+StomaStrap is a device that attaches to an ostomy appliance and adds additional support. It's stronger than a typical ostomy belt. 
+StomaStrap can also help provide support for a [parastomal hernia](https://www.google.com/search?q=parastomal+hernia). 
+It can also help to prevent or contain a [prolapsed stoma](https://www.google.com/search?q=parastomal+hernia).
 
+### StomaStrap parts
 
-### What you'll need
+The StomaStrap system consists of 4 distinct parts. 
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+* Wafer Support Ring - A stiff plastic piece custom designed to fit different wafer designs. When assembled, the ring presses down on the wafer, securing it to the user. Users  select the wafer support ring that matches the wafer part number they currently use. Wafer support rings curve somewhat to match the wearer, while also compressing the body near the stoma to match the wafer.
 
-## Generate a new site
+* Support Base - A flexible plastic piece that holds the wafer ring tight against the user. It has standoffs to prevent the belt from applying downward pressure on the stoma. 
+The support base can be used with different wafer support rings, so users can change wafers and still use the same StomaStrap base, belt span, and belt.
 
-Generate a new Docusaurus site using the **classic template**.
+* Belt Span - This is a flexible plastic piece that attaches the belt to the support base. It has standoffs that insert into the support base, and guide loops to run the belt through. 
 
-The classic template will automatically be added to your project after you run the command:
+* Belt - This is provided by the user. Any standard 1.5" belt should work - Users have found [canvas D-ring belts](https://www.google.com/search?q=1.5"+canvas+d-ring+belt) to be comfortable for daily use.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### StomaStrap customization
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+The first StomaStrap designs were tested using [ConvaTec Sur-Fit Natura 1-3/4" 411802](https://www.google.com/search?q=convatec+sur+fit+natura+411802) wafer. A split wafer support ring for Hollister 57mm wafers has also been developed.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+We're very interested in working with users of other wafers, or even one piece systems. Contact us at [sales@stomastrap.com](mailto:sales@stomastrap.com) or call us at (919) 656-3926 and we'll see what we can do to help. 
 
-## Start your site
+StomaStrap parts are custom 3D printed for each order. This manufacturing method makes it easy to change parameters to suit different users. For example, we can print taller standoffs for users with larger stomas. Our goal is to supply a custom fit device that fits your specific needs. As we grow, we will invest in the software and hardware capabilities to allow for greater customization.
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+The designer of the StomaStrap system has worn one every day for over a year.  
