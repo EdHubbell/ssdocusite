@@ -55,7 +55,7 @@
             <uri>https://github.com/edhubbell</uri>
         </author>
         <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="docusaurus" term="docusaurus"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
@@ -69,7 +69,7 @@
             <name>Ed Hubbell</name>
             <uri>https://github.com/edhubbell</uri>
         </author>
-        <category label="Hola" term="Hola"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="hola" term="hola"/>
+        <category label="docusaurus" term="docusaurus"/>
     </entry>
 </feed>
