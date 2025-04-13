@@ -6,6 +6,35 @@ sidebar_position: 4
 
 Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
 
+import React, { useRef, Suspense } from 'react'
+import { Canvas } from '@react-three/fiber'
+import { useGLTF, OrbitControls } from '@react-three/drei'
+
+export const Model = ({ modelPath }) => {
+      const { scene } = useGLTF(modelPath);
+      return <primitive object={scene} />;
+};
+    
+export const ModelViewer = ({ modelPath }) => (
+    <Canvas camera={{
+        position: [-0.01, 0.1, 0.1], // Set initial position (x, y, z)
+        fov: 45, // Set field of view
+        near: 0.05, // Set near clipping plane
+        far: .2, // Set far clipping plane
+      }}>
+      <ambientLight intensity={100} />
+      <directionalLight position={[-2, 5, 2]} intensity={10} />
+      <Suspense>
+        <Model modelPath={modelPath} />
+      </Suspense>
+      <OrbitControls />
+    </Canvas>
+  );
+
+    
+<ModelViewer modelPath="/models/StomaStrap_FullAssyConvaTec45mm.glb" />
+
+
 ## Front Matter
 
 Markdown documents have metadata at the top called [Front Matter](https://jekyllrb.com/docs/front-matter/):
