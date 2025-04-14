@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://stomastrap.com/edsBlog</id>
+    <title>StomaStrap Blog</title>
+    <updated>2025-04-14T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://stomastrap.com/edsBlog"/>
+    <subtitle>StomaStrap Blog</subtitle>
+    <icon>https://stomastrap.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Starting StomaStrap]]></title>
+        <id>https://stomastrap.com/edsBlog/starting-stomastrap</id>
+        <link href="https://stomastrap.com/edsBlog/starting-stomastrap"/>
+        <updated>2025-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've moved my CaringBridge posts to this site so that they're more accessible. I also wanted to be able to share these posts, even though they are]]></summary>
+        <content type="html"><![CDATA[<p>I've moved my CaringBridge posts to this site so that they're more accessible. I also wanted to be able to share these posts, even though they are
+old, with StomaStrap customers. Every ostomy has a backstory - These posts tell most of mine.</p>
+<p>My cancer hasn't been detectable in almost 3 years, which is great news. My overall health has been pretty good over the past year, so
+I don't usually feel the need to update anyone via CaringBridge. Plus I know firsthand the immediate stress response of seeing a CaringBridge
+update from a loved one pop into my email inbox. I don't like to cause my loved ones any undue stress.</p>
+<p>One thing that has really helped me through this health journey has been my approach to problem solving. Many of the problems I've had to solve seemed
+very personal and only applicable to me.</p>
+<p>During my 14 months with multiple enterocutaneous fistulae, I created a 3D printed brace for the Eakin wound bag that I wore. It was an basically a big ostomy bag with a drain.
+I needed a nurse to help me change it 2 times a week. Leaks were common. My life, already constrained by cancer and the inability to eat, shrunk even further.</p>
+<p>After I created the brace, life was better. I still remember that The Cars were on the sound system when I popped into a grocery store. Walking around in public without worrying that at any moment I'd have to scurry back to the car, soaked in output? My eyes teared up near the produce aisle. That brace was just what I needed.</p>
+<p>Despite assurances from medical personnel that the brace was a great idea, no one asked me to make one for another patient. I tried to connect with numerous wound and ostomy professionals, and while there was some interest, to my knowledge no one has ever worn that wound bag brace but me. I've got the design posted at <a href="https://www.printables.com/model/449956-wound-bag-brace" target="_blank" rel="noopener noreferrer">https://www.printables.com/model/449956-wound-bag-brace</a> - As far as I can tell, I'm the only one who has ever worn one.</p>
+<p>It's a fact of adult life (all life, throughout multiple cultural and political backgrounds) - No one will advocate for you as strongly as you can for yourself. So if you've somehow found yourself here, and think that the StomaStrap may help you - Maybe you're right. Show the product to your health care team and see if they think it'll work for you.</p>
+<p>The StomaStrap uses many of the same design elements of the wound bag brace. It is focused on delivering down force on the adhesive part of the appliance. It consists of some 3D printed parts and a belt. I wear it every single day. It does seem like it might be a solution that applies to people other than me.</p>
+<p>My initial efforts to just throw the wound bag brace out into the world have failed miserably. I'm going to take a different approach with StomaStrap. It means I need to deal with a lot more moving parts (website, LLC, printing services, etc). The goal is to make it so that more people get a solution that works for them.</p>
+<p>Anyway, the rest of this section of the website is my personal blog, centered around my cancer diagnosis and recovery from the substantial surgical complications that resulted in my ostomy. Just in case you were interested in knowing more about me and where I'm coming from.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MRI Results are Clean]]></title>
+        <id>https://stomastrap.com/edsBlog/mri-results-are-clean</id>
+        <link href="https://stomastrap.com/edsBlog/mri-results-are-clean"/>
+        <updated>2024-03-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: The MRI results say there are no cancer metastases on my liver.]]></summary>
+        <content type="html"><![CDATA[<p>TLDR: The MRI results say there are no cancer metastases on my liver.</p>
+<p>Seriously, this post is way long. You can stop reading here if you want. I’m still NED (no evidence of disease). The rest is so I don’t forget. Or rather, so that I’ll be able to remember after my mind covers the past week with layers of time, denial, and post traumatic amnesia.</p>
+<p>The start of 2024 was not easy. The day after Christmas brought the gift that no one wants - Ureter stents.</p>
+<p>They left one stent in (from one kidney to my bladder) after my operation in October. The stents only last for about 3 months before they need to be replaced, as they are plastic and therefore an infection risk. The folks in urology decided that due to radiation damage from cancer treatment a few years back, maybe I needed a stent on the other side as well. Plus that kidney looks a little plump. So I went in to get the old one out and have two new ones put in. Luckily, this is a procedure that doesn’t involve making any new holes - They can use one I already have. Even more luckily, due to the small size and extreme sensitivity of that hole, they knock you out ahead of time.</p>
+<p>I meet the urology surgeon for the first time as they’re prepping me for the procedure. He references a collection of fluid in my pelvis that was on the last CT scan. Mentions it with a bit of a shrug that clearly says ‘not my fucking problem’. Santa must have brought the doc socks.</p>
+<p>We leave the hospital without any post-procedure follow up from urology. The next day consists of pissing razors. This side effect went unmentioned, despite being very much urology’s fucking problem. Anesthesia calls to follow up and gets urology’s earful. Urology, bitter about working on Boxing Day, never calls.</p>
+<p>Early January’s post holiday respite slides into mid-January’s cold doldrums, typically the deepest of my year. My GI system isn’t faring well. I can eat on some days. Other days I have endless intestinal gurgling. Loud transfers of liquid, seemingly directionless. No appetite. One x-ray shows a possible obstruction. Another x-ray a week later looks more definitive (not in a good way). A follow up CT at the end of January doesn’t look great, and I’m down to about 140lbs. My liquid diet isn’t keeping any pounds on. Plus the fluid in the pelvis. So I’m admitted to the hospital.</p>
+<p>I don’t tell many folks I’m going in - I’m hoping for a quick stay. The first day brings my first experience getting an NG tube shoved up my nose and down my throat while conscious. This is unpleasant, but goes smoother than expected. Then a PICC line inserted the next day (my 5th), so they can give me IV nutrition. On the third day - Remember the fluid in my pelvis? The GI surgery team steps up to own it - So it’s their problem.</p>
+<p>To drain this pelvic fluid, you can’t just jam a needle through anywhere. It’s a pelvis. There’s a lot that goes on down there - Pooping and peeing and reproducing and whatnot. As it turns out, the most direct way to this fluid deposit is from the back - Right through the top of my right butt cheek. You know that spot you rub when you have lower back/upper butt pain? That’s where the needle goes.</p>
+<p>They bring me down to the CT machine to have the procedure, heavily dosed with the hospital 3rd day prescription cocktail of sleep deprivation and stress. When nurses can’t agree on where to put my TPN IV machine, I helpfully disconnect the TPN line myself and stop the pump. Now instead of two nurses quibbling with one another, there are three focused on admonishing me. ‘You’ve put your procedure at risk, what if your blood sugar drops, we can’t connect that TPN again’. This all sounds like excuses to me - I was on TPN for 14 months with no blood sugar issues on disconnect. You want to keep a CT machine and a doctor idle, that’s on you. A waiting period of ten minutes provides sufficient time to brew my shame. The doctor arrives and I apologize for my actions. I’m obviously not thinking straight. They’re understanding and kind. I’m also nervous about this CT scan guided procedure they’re about to attempt. There are no warnings, and I’ve done no research..</p>
+<p>Administered not nearly enough Versed and fentanyl for what’s to follow. While laying on my left side, I can’t see what I perceive to be a 16-penny nail as it is slowly driven through my upper butt cheek and into my pelvis. Intermittent images are taken on the CT to make sure the nail goes to the correct location and to lengthen the entire procedure. Prior to now, Versed has left me feeling ambivalent and even forgetful during procedures. It’s outmatched here, and it isn’t close. They say the nail is a plastic tube, but I know what a nail feels like.</p>
+<p>Post procedure, wheeled back to my room, inconsolable. On my side, crying like I’m 7 years old, for an hour. Headphones in, blasting Japandroids, ignoring all nursing staff. Then some morphine. The pelvic pain is so bad, all urinary control is gone. Pee leaks out of me with no notice. This feels very much like a permanent condition. It continues this way until morning, when the nurse’s aid can’t understand how my desire to stay warm is outweighing any concerns about wet bedding and bedwetting.</p>
+<p>Luckily, urinary control returns a few hours before urology arrives and tells me not to worry. The new drain is doing its thing. The next few days - island getaway, Mardi Gras and Super Bowl parties - All missed. My obstruction clears, and I’m allowed to eat again. Note that there’s no object that was obstructing - It’s just that my intestines and their associated scar tissue got in a bad spot. My drain fluid tests positive for MRSA. Folks start showing up in yellow gowns, but I’m told it isn’t a big deal. Sent home after 8 days with a drain hanging out of my upper butt cheek and 10 days worth of antibiotics.</p>
+<p>Over the next few weeks I try to figure out what I can eat without causing the symptoms of a blockage again. Pizza? No - 2 days of gurgle after only 2-½ pieces. Noodles with beef and sour cream? Nope. Gut probably has nothing left to digest dairy after days of IV and oral antibiotics. Pho? Winner. Pho almost every day (including today). I’ve tried 6 different places. Tip: There’s a robot server and lots of meat at Pho 919 in Cary.</p>
+<p>Leap day closes out February, and it’s been one month since my last CT. One nice side effect of all these extra CT scans is that I’m not nervous about them spotting a cancer recurrence. I even mention this at lunch with a friend before my CT. No big deal, just had one a month ago. Get my CT, and head off to grocery shop. My phone dings while I’m in the Compare looking for coconut cream for pina coladas and painkillers - There’s a fresh pineapple at home, and the new blender blades seem up to the task of turning ice into slush. It’s the CT results, but I’ll check them when I get in the car. I forget and don’t even look until I get home.</p>
+<p>I’ll just paste some radiology reports here:</p>
+<ul>
+<li>Liver: There is a new 1.0 cm lesion within hepatic segment IVb on series</li>
+</ul>
+<p>3 image 45. There is a new 1.1 cm lesion within segment 8 (3/31).</p>
+<p>And</p>
+<p>Impression:</p>
+<ol>
+<li>New hepatic lesions, suspicious for metastatic disease. Recommend MRI</li>
+</ol>
+<p>abdomen with and without contrast for further evaluation.</p>
+<p>This is not good. The most common site for colorectal cancer to migrate to is the liver. Once cancer leaves the original location, the complexity of treatment goes up, and the effectiveness goes down. There are still treatments with curative intent, but it’s a hard road that no one wants to be on.</p>
+<p>The next few days are difficult. I tell a few people with intimate experience with cancer what’s up. Avoid telling family until the weekend. Duke schedules the MRI for April 4th, a 32 day wait that would, in less dire circumstances, be laughable.</p>
+<p>One bright spot - I’m a member of a private Facebook group called Colontown that acts as a support system for colorectal cancer patients and caregivers. The moderator of the LiverLovers sub-group says they are here to help me. Sure, whatever, help me cope, fine. Betsy wants to know where I live and where I’m being treated. Upon hearing Duke, she says I want Dr. Lidsky. And she’s going to text him now. At 8:30PM. A person I’ve never met, who from what I can tell doesn’t even work for a medical facility, is connecting me to the correct liver surgeon at Duke. Over Facebook. I haven’t gotten a call or message from anyone at Duke, but a stranger who’ll never see a co-pay is somehow coordinating my care more effectively than I’ve ever experienced.</p>
+<p>My GI surgeon’s assistant calls at mid-day on Friday, and says that evidently ‘someone already has you set up with Dr. Lidsky’s team’. In the days after bad test results, there are few sources of comfort. Having a plan is one. Betsy was not only offering encouragement - She helped to implement a plan. I’m still blown away. You can donate to their nonprofit at <a href="https://paltown.org/" target="_blank" rel="noopener noreferrer">https://paltown.org/</a></p>
+<p>My oncologist messages me Friday night, and he’s ‘also very concerned with these scan results’. We need to biopsy one of the liver spots. A liver MRI would also be helpful.</p>
+<p>Monday comes, and we’re looking at outside MRI providers. Ask Duke for a referral, but the liver doc prefers internal scans. They move the MRI to the following Tuesday, 3/12. Barely acceptable, but enough for me to stop fantasizing about picketing Duke Hospital with a sign that says ‘Cancer MRI Wait Time: 32 Days  DukeIsBroken.org’.</p>
+<p>Wednesday brings an appointment to have the drain pulled from my buttocks. It’s not last on my list of priorities, but it’s not near the top. I’m still adjusting to what the next few months will look like. The most likely scenario is some kind of systemic chemo, followed by liver surgery. Not sure if the lesions shown on CT are resectable or not. Maybe an implantable hockey-puck sized chemo pump that delivers straight to the liver is on the table.</p>
+<p>There’s some footage of a person in the surf as the 2004 tsunami hits Thailand. He’s just looking at the wave coming toward him. It’s haunting, watching him not turn to seek safety. That’s how it felt, looking at the treatments ahead. Nowhere to run, and no ability to conceive what was to come, apart from knowing it was more than I could bear.</p>
+<p>So Wednesday morning arrives, and I don’t have any real work to do nor the mind to do it. With Karen’s blessing, I head over to Duke Radiology and proceed to treat them like a barber shop. Any chance for a no-show? I’m looking for a walk-in MRI. The person at the desk offers me the scheduler’s phone number. I give them a call and explain what I’m looking for. They put me on hold for five minutes. ‘Are you there now?’ ‘Yeah, I’m standing right outside the waiting room.’ ‘Hold on Mr. Hubbell, I’m working on it.’ I’m starting to think maybe this is going to work out. Sure enough, she gets back on the line and has me scheduled for 10:30AM at the Cancer Center, a 5 minute walk from where I’m standing.</p>
+<p>Get stuck a couple of times for one IV, and I’m in the machine by 11. Out by 11:30. By now, Karen has used her doctor powers to call the radiology reading room. They say they’ll move my MRI to the top of the stack. We’re thinking it’ll take maybe an hour. So we wait. I come home for lunch, and Karen takes me over to the appointment to remove the drain. The GI team is behind  schedule (as is their custom), so we don’t see the GI surgeon until about 3PM for a 1:30PM appointment. Still no MRI results.</p>
+<p>Karen’s pulling for something fungal. Maybe the MRSA that was found in the drain fluid did something strange to the liver. Dr. Migaly, the GI surgeon, mentions possibly the contrast used was at some in-between phase. He also mentions that he found the CT results shocking. That said, the mood in the room is not hopeful. I’m trying to not lose focus on what’s likely ahead of me. But the longer the read takes, the more hope creeps in. Maybe it’s taking so long because they can’t square the MRI results with the CT. Maybe.</p>
+<p>Drain pulled, we head home. Henry has a basketball award ‘banquet’ (aside from post-assembly cupcakes, there is no food). After that, we’ve got reservations at M Sushi. It’s an attempt to make some positive memories before I’m back on chemo and raw fish goes off-menu.</p>
+<p>Sitting in the chairs above the basketball court with the rest of the parents. There’s plenty of seating, so everyone is spaced out. Navy painted seats that fold up. They were once red. I’m in the last row on the corner, languidly clapping for whatever team award is announced. I know precisely 1 kid in this gym. I don’t know what team was up when my phone received an incoming MyChart message from my oncologist. This is what it said:</p>
+<p>Dear Ed--</p>
+<p>Here is the text of the MRI report (not released yet):</p>
+<p>No mass to correlate with the previously indexed hypointensities seen on recent CT. These areas are favored to reflect areas of hepatocyte injury or inflammation, rather than metastatic disease. Redemonstrated benign hepatic hemangiomas, not significantly changed since 2021.</p>
+<p>This result from the MRI combined with your negative Signatera in January do not support a diagnosis of recurrent/ metastatic disease.</p>
+<p>I look forward to Dr Lidsky's review of the scan, but at this point there is no evidence of recurrent/ metastatic disease.</p>
+<p>Best - John Strickler</p>
+<p>There are parents of athletes at my kid’s school who are likely still wondering why the guy in the upper corner seat was weeping. Then texting, then more weeping.</p>
+<p>Karen is cc’d on all my MyChart messages. I texted her @5:58PM - ‘Read that message.’ Her reply - ‘Best message ever.’ No energy left for exclamation.</p>
+<p>I allowed myself (and my shape-shifting liver) a half a beer at dinner, which went from a wake to a full celebration. We all had the nigiri omakase dinner, and it was outstanding. The rest of the night was spent trying to get the good news to folks who had earlier heard the bad news.</p>
+<p>On Thursday 3/7, I got a call from Dr. Lidsky. I immediately thanked him, while also expressing my desire not to need to meet him in person. He affirmed radiology’s read of the MRI, and suggested that he didn’t need to waste my time with an in-person appointment. My time? It’s your time that I don’t want to waste. And I thanked him for working so closely with Colontown, and how much of a comfort that was to have a plan in the first 24 hours.</p>
+<p>Now I’m left struggling to find a balance. Facing life’s fragility gives a perspective that prioritizes living in the moment, but the weight of that perspective is a tough daily lift. A friend shared a saying that gives some insight - ‘You can’t mow tomorrow’s grass today’. It’s a fight to remember and recall suffering from the past and the perspective in that moment. There’s an instinct to put this all behind me, to move on.</p>
+<p>I’ve been to a warzone, but as a journalist or a tourist? I don’t want to go back, and I won’t dare presume to tell what lessons to draw from the experience. That makes me feel like a tourist. With a dash of denial, I get to leave it behind. But I’m trying to write it down, to learn something, to live differently. To be a better friend to those in the warzone. To face life, and death, with intention, maybe?</p>
+<p>You’ve read this far, which makes you a friend.</p>
+<p>If this was news to you, I’m glad that you didn’t get the full immersion experience. Folks that happened to text me got the news, as I’m pretty shit at keeping mum. Making the call or text that says ‘CT scan says lesions on my liver’ is exhausting. I’m hoping to never do it again.</p>
+<p>If this wasn’t news, thanks for the support over the past week. Know that you’re loved, appreciated, and trusted.</p>
+<p>And to Karen - You’re the best partner I could hope for. Hoping for better days ahead.</p>
+<p>Enjoy your time with friends and family. Hug someone.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back Home]]></title>
+        <id>https://stomastrap.com/edsBlog/back-home</id>
+        <link href="https://stomastrap.com/edsBlog/back-home"/>
+        <updated>2023-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Straight to the lede - I'm home! GI surgery team came in at 6AM this morning and said 'yeah, we could keep you another day, but you seem to be doing pretty good, so you can go ahead and get the fuck out'. That was my takeaway, anyway. Although they were much more polite about it.]]></summary>
+        <content type="html"><![CDATA[<p>Straight to the lede - I'm home! GI surgery team came in at 6AM this morning and said 'yeah, we could keep you another day, but you seem to be doing pretty good, so you can go ahead and get the fuck out'. That was my takeaway, anyway. Although they were much more polite about it.</p>
+<p>They allowed me solid foods on Thursday. I know everyone wants to know what I chose to have first after not eating for 14 months. I didn't choose - I was in the hospital. They brought two small turkey sausages to my room, and I ate one of them. Wasn't really hungry, as they still had me on TPN overnight. It could be said that it was the most delicious turkey sausage I've ever had. It could also be said it's in a tie with every other turkey sausage I've ever had.</p>
+<p>No, no, no - I will not turn this journal into a Seinfeldian rant on the qualities (and lack thereof) of hospital food. I respect you all too much for that. Plus my breakfast sandwich this morning was really quite good. Sadly, somewhere on a tray at this very instant is a BBQ sandwich that will never find its host - I was released prior to lunch.</p>
+<p>The best part of the food really was the chance to interact with the folks that deliver it in a non-adversarial  way. You knocked to come get a tray? Well, here's the tray! Happy transaction on both sides. Over fifty hospital days in the past 2 years, and I had about 8 trays of food total.</p>
+<p>I'm on no painkillers at all since my episodes of Dilaudid-fueled nightmares. The pain I feel in my abdomen at the moment is akin to the pain of a gentle sunburn, reminding you of vacation. Although maintaining a healthy fear of sneezing or coughing is still critical.</p>
+<p>Hearing about the lack of painkillers, one of the doctors suggested that I was tough. I'll admit to being stubborn. It could just be that compared to the past 14 months, the pain I'm feeling now is nothing. Pain gets graded on a curve. Someone tough could watch as that last IV is removed from the back of their hand. I averted my eyes.</p>
+<p>So I'm allowed to eat what I want, but also must jam down 3 protein shakes a day to keep the healing going.</p>
+<p>Also, I poop into a bag on my abdomen now. Readers will have to request details if their interests intersect with this subject. It's not that I'm hesitant to share. But as with hospital food humor, I respect both you and myself too much for poop tales. A journal is no place for shit stories. In-person is better for that kind of thing.</p>
+<p>So I have a couple of appointments for follow-up next week to have drains taken out. About 6 weeks of 10lb weight restriction. And I gotta learn how to manage this ostomy. Go back to Duke for cancer scans every 6 months. Train to get back in shape, and try to get back out on the soccer pitch/basketball court sometime in 2024. No making up for lost time, but try to live so that less time is lost. Travel. Dine. Stay out until 1AM. Take my wife on dates.</p>
+<p>Which means that hopefully, this journal is drawing to a close. I won't say that this is my last entry, but I'd not be disappointed if it were.</p>
+<p>Thanks to y'all for reading and following along. I have avoided chattering too much in the comments, as I didn't want to turn this into a back-and-forth. I'm happy to have conversations with any of you. Just not all at once. While the journal text will be compiled into the future best seller 'Living with Enteroatmospheric Fistulae - An Owners Manual', journal comments will not be included. It's an editorial decision by the Random House team.</p>
+<p>But I have and will read every comment, and each one makes me approximately 19.28% happier. Not quite what CaringBridge would have you believe, but not shabby by any means. I appreciate your courage in exposing yourself to the painful parts of this story, and your willingness to laugh at the funny parts. Keep room for both, as there's often little (if any) distance between.</p>
+<p>My love to you all -
+~Ed</p>
+<p>PS - Yes I'm quite likely going to go eat some Hutchins Garage pizza this weekend.</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rough Night]]></title>
+        <id>https://stomastrap.com/edsBlog/rough-night</id>
+        <link href="https://stomastrap.com/edsBlog/rough-night"/>
+        <updated>2023-10-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last night was rough. Dark-night-of-the-soul rough. Couldn’t get any sleep, not a moment lost. Just pain and discomfort interspersed with dementia-level personal crisis. I can’t explain why a live track by singer-songwriter Slaid Cleves being rendered as an .exe file ever once constituted an emergency. This thought occurred to me at least 3 times.]]></summary>
+        <content type="html"><![CDATA[<p>Last night was rough. Dark-night-of-the-soul rough. Couldn’t get any sleep, not a moment lost. Just pain and discomfort interspersed with dementia-level personal crisis. I can’t explain why a live track by singer-songwriter Slaid Cleves being rendered as an .exe file ever once constituted an emergency. This thought occurred to me at least 3 times.</p>
+<p>The vivid nightmare of not being able to walk when chasing the abductors of my children had something to do with reading about events in Israel, combined with my literal failure to walk earlier in the day. That specific nightmare was theatrically well shot. The one about a super high forklift with controls linked to hand position was just your average height scare dreamscape.</p>
+<p>Blame the PCA, which is the acronym for patient-controlled analgesia – A locked box with a little green button attached to my IV pole. The locked box is full of narcotics. If you’ve got a PCA on your pole, you can’t leave the floor you’re on. The button is only for you, and you can hit it as often as you like.</p>
+<p>I was trying to hit it about once an hour, but after not sleeping at all, you get a little punchy/pressy. I had nightmares the night before, but they were a little more mild - I’m flying thru my childhood neighborhood as some all powerful bringer of death – It was clearly a dream, but ‘we’re sleeping – let’s see how this plays out.</p>
+<p>All of this to say – I wish my epidural had kept working, and I’m on the Dilaudid no-fly list. Not pressing the button anymore.</p>
+<p>The other issue was that I’d already had a tough day before. On my second walk of the day, I set out to do 2 laps of the wing. Didn’t make it past a half lap before my teeth started to chatter. Then my legs started to shake. Full body shakes, without the usual cold feeling that comes with them. Total failure, followed by 4 hours of restlessness in bed.</p>
+<p>The reason I need to walk is because walking is the only thing that’s shown to wake up the bowel function. I don’t get to eat or drink or get this damn NG tube out of my nose and down my throat until my bowels start to function. So I’m plenty motivated.</p>
+<p>During the operation, they took out all of my small bowel (as in removed it from my body cavity) and detached it from itself. They cut out the parts with the fistulas in it and made 3 connections (anastomoses), leaving me with 200cm of small bowel (all of which it is best not to imagine). So we need to make sure that the digestive system they stuffed back in me is actually working at the end before we cram anything in at the start.</p>
+<p>Into this scene of despair comes Karen. I’m going to skip the paragraphs I could write about how Karen makes me feel, because it’s another story that I get to read and write every day. She comes in with a little dance to cheer me up and get me on a walk, but I need to cry some first. That accomplished, we head out to do a couple laps. Then a rest, then 2 laps more.</p>
+<p>She’s got to leave, and I’m left with my sullen empty ostomy bag. But my mood is much improved, and they brought me a pint of blood for my troubles.</p>
+<p>I woke from a nap to a gurgle of activity – The stoma awakens! After 14 months of inactivity, finally some progress! And again, another 250ml a few hours later!</p>
+<p>And that’s where things stand. Hopefully tomorrow they get this NG tube out of my face and let me start on some clear liquids. I’ve been talking about an orange Gatorade for about a year, and even hot tea sounds like a treat.</p>
+<p>Last, I’ll share a photo of my sewn up abdomen. It’ll make for a cool looking scar. I’m quite pleased with it.</p>
+<p>Love to you all –</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic Update]]></title>
+        <id>https://stomastrap.com/edsBlog/basic-update</id>
+        <link href="https://stomastrap.com/edsBlog/basic-update"/>
+        <updated>2023-10-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Surgery, by all accounts, went well. 12 hours, didn't lose much bowel, and they were asked to completely close my previously open abdomen. I'm feeling great about that.]]></summary>
+        <content type="html"><![CDATA[<p>Surgery, by all accounts, went well. 12 hours, didn't lose much bowel, and they were asked to completely close my previously open abdomen. I'm feeling great about that.</p>
+<p>Current status is resting uncomfortably in room 21016 at the main Duke hospital. Every hiccup and burp and gurgle hurts. Happy to have them, tho. It's been a year since the last ones.</p>
+<p>That's about all I can type now. Turning the  phone back off and trying to rest. My love to you all
+-Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surgery Day]]></title>
+        <id>https://stomastrap.com/edsBlog/surgery-day</id>
+        <link href="https://stomastrap.com/edsBlog/surgery-day"/>
+        <updated>2023-10-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After~400 days of TPN and not eating, surgery day is here. Again. Looks like it'll happen.]]></summary>
+        <content type="html"><![CDATA[<p>After~400 days of TPN and not eating, surgery day is here. Again. Looks like it'll happen.</p>
+<p>In pre-op bed, ready to get this day started. Should start at 7:20AM and last until ? - They said 8 to 14 hours or so. I think they're doing the water pump while they're in there.</p>
+<p>I don't have much to add at this time. I've showered and shown up, and plan to lay very still. Everything else isn't up to me.</p>
+<p>Looking forward to counting backwards. Then I'll wake up at if no time had passed, and get the news on how things went.</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surgery Delay]]></title>
+        <id>https://stomastrap.com/edsBlog/surgery-delay</id>
+        <link href="https://stomastrap.com/edsBlog/surgery-delay"/>
+        <updated>2023-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Migaly wanted to offer you the soonest available surgery date he, the plastics, and urology teams had available for your multi-provider surgery. That date is 10/5/23. Please let me know if this date works for your schedule]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>Dr. Migaly wanted to offer you the soonest available surgery date he, the plastics, and urology teams had available for your multi-provider surgery. That date is 10/5/23. Please let me know if this date works for your schedule</p>
+</blockquote>
+<p>Over the past year, since August 2022, my schedule consists of precisely one entry: Await fistula takedown surgery. I don't go out west for Christmas, or Iceland for spring break. No travel to Asia for work. I put TPN into my veins for 12 hours a day, and I wait.</p>
+<p>So Oct 5th works. Any day before I die works.</p>
+<p>But what you're offering - It's a scheduling shit sandwich. I know why it's at my table, and that I'm going to have to eat it. I don't want to hear about how you made it, or about how lucky I am to have it. I'm in no place to hear those things.</p>
+<p>So Oct 5th it is. I don't want to talk about it. Just putting my head back down and doing my time.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NPO]]></title>
+        <id>https://stomastrap.com/edsBlog/npo</id>
+        <link href="https://stomastrap.com/edsBlog/npo"/>
+        <updated>2023-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As much as we rely on it, the written word is often insufficient for true and accurate communication. It relies on both a competent scribe to narrow an idea into words, and a willing and curious reader to interpret those words correctly. No matter how clear and brief, writing requires the attention of the reader.]]></summary>
+        <content type="html"><![CDATA[<p>As much as we rely on it, the written word is often insufficient for true and accurate communication. It relies on both a competent scribe to narrow an idea into words, and a willing and curious reader to interpret those words correctly. No matter how clear and brief, writing requires the attention of the reader.</p>
+<p>I reflect on this now from my hospital bed, and come to this conclusion: While the meal delivery staff here at Duke Hospital most surely embody many positive qualities, ‘willing and curious readers’ is not among them.</p>
+<p>Are there written words to quickly communicate the concept that ‘the person in this room doesn’t get food’? In medicine as in military - When words are too wordy, make an acronym. So there is ‘NPO’. Stands for ‘nothing by mouth’, but in Latin or Greek. The whole of the hospital, including the meal delivery staff, knows the translation - From acronym, to ancient tongue, and to English.</p>
+<p>Still, six times a day, the knocks come. Each mealtime, an echo – An initial attempt; A return to retrieve a delivery denied.</p>
+<p>They’re almost always friendly, and I’m almost always so in return. Unless I was asleep, in which case I tend to be curt.</p>
+<p>Events came to a head of sorts yesterday evening. Nearing 70 hours without a continuous hour of sleep, I took a walk and asked for a dry erase marker from the phone addled floor desk attendant. ‘NO FOOD NO TRAY’ in transparent blue ink onto my window. My nurse was not pleased, and erased it immediately, promising to do things properly.</p>
+<p>I strode about the hall, pushing an IV tower arrayed with the pelts of 8 bags, silently vowing to fall down before yielding. At last, an 8½ x 11 sheet onto the window – ‘NPO (except for meds)’.</p>
+<p>Yet again this morning, the knock comes – ‘You NPO?’</p>
+<p>In any case, I did get 3 successive hours of sleep last night. My mood is much improved. I feel OK, and the infection (which is some gut bacteria, lost and running around in my blood) seems to be knocked back. It’s a Sunday, and no one really checks out of the hospital on a Sunday. At least not voluntarily. In that context, waiting seems preferable.</p>
+<p>Next steps are to get a new PICC line (IV line that I get nutrition thru). Once the folks up at vascular access on the 9th floor see fit to do that, I’m halfway home. They’ve cultured my blood and figured out which antibiotic is working. That will let them move me from a Long Island iced tea of antibiotics down to a more reasonable shot of Stoli. If all goes right, home early this week with either oral or IV antibiotics.</p>
+<p>Then it’s all about getting surgery rescheduled. The GI side of the surgical team stopped by today - some of them twice. They were optimistic about getting me back on the schedule and promoting me to favorite ex-patient. We’ll hopefully hear more from Plastics on Monday.</p>
+<p>These health issues have proven difficult for me to put into a larger context. I often get the sense I’m not learning the lesson I’m supposed to. This latest episode is yet another bullet item on a long list.</p>
+<p>Some look to philosophy for comfort, perhaps from the Stoics. Or religion - One of my caregivers shared his love for Paul’s letters in Ephesians. Not ashamed to say I find comfort in words from what are surely the fables of our present age – Season 2, episode 22.</p>
+<p>Lisa: Perhaps there is no moral to this story.</p>
+<p>Homer: Exactly! It’s just a bunch of stuff that happened.</p>
+<p><a href="https://www.youtube.com/watch?v=dtbkYCLFxYU" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=dtbkYCLFxYU</a></p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blood Infection]]></title>
+        <id>https://stomastrap.com/edsBlog/blood-infection</id>
+        <link href="https://stomastrap.com/edsBlog/blood-infection"/>
+        <updated>2023-08-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just a note from Duke ER (where I'm ensconced due to a blood infection). Looks like Monday's long awaited surgery will be still longer awaited. I'm on IV antibiotics. They've pulled my PICC line, which means I'm going with no TPN (nutrition) for the next few days. Hopefully I'll have news later on surgery reschedule date. Until then, I wait.]]></summary>
+        <content type="html"><![CDATA[<p>Just a note from Duke ER (where I'm ensconced due to a blood infection). Looks like Monday's long awaited surgery will be still longer awaited. I'm on IV antibiotics. They've pulled my PICC line, which means I'm going with no TPN (nutrition) for the next few days. Hopefully I'll have news later on surgery reschedule date. Until then, I wait.</p>
+<p>It was satisfying to leave the ER AMA (against medical advice) after 7 hours without treatment or fluids. They even made me sign something that threatened to put this episode on my permanent record. Returning at midnight was the way to go. Had a room within 30 minutes. Try to schedule your emergencies towards the early AM hours.</p>
+<p>On the phone, so not going to write much more now. I'm feeling ok, and should be back to not eating in no time.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surgery Date]]></title>
+        <id>https://stomastrap.com/edsBlog/surgery-date</id>
+        <link href="https://stomastrap.com/edsBlog/surgery-date"/>
+        <updated>2023-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Got some news this week on the date of my next surgery – Monday, Aug 7th. I’ve been anxious about getting a date for this surgery. It’s nice to see some kind of finish line.]]></summary>
+        <content type="html"><![CDATA[<p>Got some news this week on the date of my next surgery – Monday, Aug 7th. I’ve been anxious about getting a date for this surgery. It’s nice to see some kind of finish line.</p>
+<p>The surgery is a dual-specialty all day long affair. I’ll be asleep, so I won’t care.</p>
+<p>First, Dr. John Migaly will be doing the GI stuff, which is the hard part. He’s got to find each hole in my small intestine (and there are at least 4). He’ll then cut a little before the hole and a little after the hole and join the cut sections together. This joint is called an anastomosis. In theory, he’ll have to do that 4 times. In practice, could be between 2 and 6. After restoring continuity to my small bowel, he’s got to stuff what’s left back in my abdomen in a way such that it doesn’t kink over on itself.</p>
+<p>This part of the surgery is dicey - Teasing out the small bowel tissue from the abdomen is made difficult by the scar tissue left over from the previous operations. The reason this surgery needed to wait for a year is because we need that time to allow the scar tissue around the bowel to dissipate. Waiting for a year increases the odds of a successful result on the first try.</p>
+<p>Once that’s done, Dr. Ash Patel from plastics gets a go at me. His job is to seal up my abdomen so it looks less like the medical curiosity that it has been for the last year. Getting my stomach muscles to meet again will require implanting a mesh that will dissolve over time. I’ve been assured that all of this is the easy part. Whether or not I’ll have a bellybutton anymore is an open question - My ambivalence on the matter is boundless. Presence/absence of navel is not on my list of success metrics. I’d be more interested in being able to do a sit-up sometime in 2024.</p>
+<p>The last estimate I got for the hospital stay was 5 to 10 days. Pulled a 40 day bid last time. Five to ten? I can that kind of time standing up. Especially if I get to eat during part of it.</p>
+<p>Likely to be on a clear liquid diet for at least the first few days in the hospital. Not sure on the timing of when I’ll get to eat real food.</p>
+<p>So, that’s the update. The next 5 weeks are full of medical appointments, a quick beach trip, and kid camp transport. Plus wrapping up some work projects that need my attention. Hoping to neither relay nor relate any additional news until after the surgery.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April Update]]></title>
+        <id>https://stomastrap.com/edsBlog/april-update</id>
+        <link href="https://stomastrap.com/edsBlog/april-update"/>
+        <updated>2023-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a while since the last update.]]></summary>
+        <content type="html"><![CDATA[<p>It’s been a while since the last update.</p>
+<p>If you’re reading this, I’m already wearing sweatpants or shorts. Unless I’m in bed or showering. My t-shirt is either the one I slept in last night, or the one I’ll sleep in tonight. Solid chance that it’s both. Socks are likely pulling another multi-day shift. Disposable hospital underwear, loose elastic waistband.</p>
+<p>Sweatpants are my uniform due to the dressing over the fistula. The bag extends down to my waistline. Pants that interfere with that interface cause the dressing to fail faster. Days when the dressing fails are not good. Sweatpants and athletic shorts are loose enough to not cause issues.</p>
+<p>Connection between the PICC line in my left arm to the TPN pump happens at around 8PM each evening. It takes 12 hours to pump the 2.8 liters of nutrition into my veins. Can’t change a shirt while the pump is connected, as the sleeve can’t get past the PICC. TPN connection time marks the end of the productive portion of my day.</p>
+<p>Until very recently, most of my waking hours consisted of moving very cautiously so as to not disturb the wound bag on my stomach. The bags were wearing out after about 2-1/2 days. ‘Wearing out’ means that the stomach acid from my fistula soaks against my skin. This hurts the skin. It also eats away at the bag until the stomach acid starts to escape at the seams. Once that starts, there’s no patching the dressing - You need a whole new bag change. That takes 2 people about an hour.</p>
+<p>Karen had been nice enough to help me change the dressing on the weekends so I could make it to Tuesdays and Fridays (when my home health nurse Keely visits). The dressing change routine wasn’t getting any easier. Reaching out to wound nurses at Duke. On YouTube. Over Facebook. All were sympathetic and tried to help. Keely was keen to allow for some experimentation. We did find some products (especially 3M Cavillon Advanced Skin Care) that helped. Still, dressing lifetime and skin condition continued to deteriorate through Jan/Feb/March. Karen often returned home to find me in my easy chair, trying to minimize movement so the dressing could make it one more day.</p>
+<p>The engineer in me made some attempts at working out some kind of solution. Tried some 3d printed shields that went inside the bag to guide the fistula output. Printed with a flexible plastic. Looked like a large plastic spider. Completely ineffective.</p>
+<p>Then I gave a try with an ostomy belt from Amazon combined with a 3D printed brace. Some success! Replaced the flimsy stretch belt with a solid canvas D-ring belt and a brace with vertical supports. Feels good - Lots of support through my open abdomen. How well does it work?</p>
+<p>I went from sitting still to playing Henry one-on-one basketball. He beats me, but at least I’m out of the house. No more leaks, and Keely says my skin looks better than it ever has. My quality of life has doubled. Granted, it is still low - But it is 2x of what it was just a month ago.</p>
+<p>You can take a look at what the brace looks like here: <a href="https://www.printables.com/model/449956-wound-bag-brace" target="_blank" rel="noopener noreferrer">https://www.printables.com/model/449956-wound-bag-brace</a> - Be warned that if you click around enough on that page, you’ll find a photo of the brace on my abdomen.</p>
+<p>Here’s where people tell me I need to patent the brace. Unlikely. There are probably about 30 people in the US who need a brace like this, and they each only need one. It’s $3 worth of plastic. I’ve let some ostomy nurses know about how effective it is. Hopefully we can get one to someone else who needs one.</p>
+<p>Surgery?</p>
+<p>Surgery to fix the fistula is slated for August. The reason for the delay is that we need to wait for the scar tissue on the small bowel to relax somewhat. The fistula takedown surgery is already complex enough - Fighting scar tissue increases the odds of forming another fistula. Thus incurring another 1 year wait for additional surgery. Please no.</p>
+<p>The takedown surgery - Imagine a coiled garden hose with holes in it.They’ll uncoil the hose, figure out where the holes are, and cut-and-rejoin the locations with the holes. Each cut and rejoin is called an anastomosis. I asked the surgeon how many I’ll need - ‘Could be one, could be 6’.</p>
+<p>It’s an all day surgery with at least a gi surgeron and a plastic surgeon. With recovery, it is a 5 to 10 day hospital stay. After a 40 day stay last year, 5 to 10 sounds like a spa visit.</p>
+<p>Eating?</p>
+<p>I’m allowed to eat, but it just comes out in the bag. I get no nutrition or calories from it. For a while I was trying to eat small amounts each day. This turns into a greater risk of leaks and more skin pain. Even went so far as to go out to dinner one night - Next morning, leaks. So no more dinners out for me.</p>
+<p>Back to chewing food and spitting it out (at home). I’ll eat some chocolate and cheese, but that’s about it.</p>
+<p>Drinking?</p>
+<p>I’m allowed to drink ‘for patient comfort’. It comes out in the bag after about 15 minutes. Cold drinks come out cold. I do a lot of rinsing and spitting into the sink, attempting to trick my body. This doesn’t work that well.</p>
+<p>Extraction of the pleasure of food without swallowing is possible. Ballpark 80% of the pleasure is in the taste. Drinking, tho - It requires swallowing.</p>
+<p>Some drinks eat away at the bag and the skin. So I’m mostly back to just water.</p>
+<p>What about DRINKING?</p>
+<p>Oh, yeah - Alcohol. Well, an occasional drink makes it in. I don’t absorb much alcohol in the short time it’s in my system. I’ve yet to stumble upon a drinking contest. I’d need to be in the bathroom every 3rd shot anyway. Haven’t caught a buzz from alcohol this year.</p>
+<p>Cannabis?</p>
+<p>Yes.</p>
+<p>Scans\Prognosis?</p>
+<p>My oncologist left Duke at the end of 2022. Duke neglected to assign me a new one, and I neglected to follow up. This finally came to a head when insurance refused to pay for my January Signatera test (an expensive analysis that looks for my tumor’s DNA in my blood).</p>
+<p>First appointment with the new oncologist, and the thought occurs ‘Well, at least I can’t get any bad news today - This is just a formality’. Then they say I’m overdue for a CT scan, and pulls strings to get it scheduled for that very evening. Ask about chance of recurrence, and the 30% number he tells me is higher than I want to hear.</p>
+<p>A few hours later, my CEA reading comes back higher than expected at 3.1. CEA is a blood test that measures a blood chemical that’s present when you’ve got active colorectal cancer. My previous readings had all been less than 1.8 - Well below the 2.5 threshold for concern. Concerns abound.</p>
+<p>So it’s the CT table at 6PM. Initial scan. ‘Inhale. Hold your breath.           Exhale’. Contrast solution into my PICC line brings an uncomfortable full body warming sensation. Then the mild panic and arching of the back. Close eyes and breathe. If the CEA results were low I’d be fine. They weren’t and I’m not.</p>
+<p>Check the poker faces of the techs after the scan. They were whistling as I left - Was that a tell? Did the scan look really bad? If I were a tech, I’d have a whole routine to try and hide my dread if I saw a bad scan. I’d probably whistle.</p>
+<p>The scans are looking for tumors apart from my primary tumor, which was removed with my rectum. Colorectal cancer tends to spread to other sites - Most notably the liver and lungs, but plenty of other places as well. Once it spreads from the primary site, you’re considered stage 4. Treatment devolves to more chemo and whack-a-mole surgical interventions. I know two people going through this. They’re with us, reading this now. They’ve both been here, and painfully far beyond.</p>
+<p>It’d take a really manipulative bastard to write all this and hit you with a bad ending here. What I want you to understand is the real panic of this time. This cancer is not in my head. Scans do not always come back clean. Nothing is for the best. None of this is fair.</p>
+<p>Slept poorly. Pathology results came back when I was in the shower - No evidence of metastasis. Shed some tears of relief when I got out of the shower.</p>
+<p>Then just today, my Signatera results came back - No tumor DNA detected.</p>
+<p>So those are my latest scan results - Good news for now. All I need to have happen is keep those results up for the next 2-½ years or so, and then my odds are really good that this specific cancer never returns. Every 6 months another CT scan, every 3 months another Signatera test.</p>
+<p>Life?</p>
+<p>Visits from college (and beyond) friends Heather, Jim and Tanya (with Dale and progeny) have all been a welcome break from the monotony of healing.</p>
+<p>Heather took a big gamble in showing up for about 4 days after not having seen me in like 6 years. As it turns out, she’s still her and I’m still me, and we had no problems passing the time. Thanks to her husband Mike for letting her get away for a bit.</p>
+<p>Got out one night with most of the soccer crew. I’ve missed playing soccer - Competition and play are low on my list of capabilities. I’ve also missed the people I used to play with - They’re each more to me than what they are on the soccer field. Usually I turn into a TPN pumpkin at 8PM, but I stayed out until 11. Which means I was hooked up to TPN until almost 11 the next day. Worth it.</p>
+<p>Jed’s murder mystery night party, adults only picnic, mid-day pool at Accordion with Chris V, early evening pool at Accordion with Alise/Lillian/Brandon, TMBG concerts, visits with friends I can’t lunch with but they visit anyway - There are good memories wedged in with the monotony.</p>
+<p>Family is good. Theo is competing in the annual Beaver Queen Pageant - Mark your calendars for June 3rd and come on out to Duke Park. This is one year I’ll actually get to watch the pageant - Usually I’m tending bar in my front yard. Henry is working on his jump shot and starting a growth spurt, plus playing the upright bass. Karen is the best, and she looks good being it.</p>
+<p>Working with 2-3 clients at the moment. The wound bag brace makes it so I can actually go in to client sites more than once a week. Enough work to keep me from looking for more.</p>
+<p>Mostly, just trying to get through each day. Caught between the knowledge that our time is limited and the desire to fast forward to life post-surgery.</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Bad]]></title>
+        <id>https://stomastrap.com/edsBlog/good-bad</id>
+        <link href="https://stomastrap.com/edsBlog/good-bad"/>
+        <updated>2022-11-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s the ol’ good news/bad news routine around here this week. We all know the rules on what comes first.]]></summary>
+        <content type="html"><![CDATA[<p>It’s the ol’ good news/bad news routine around here this week. We all know the rules on what comes first.</p>
+<p>The good news is that I’m getting stronger and gaining weight - Almost up to 150lbs. Even though I’ve only put on about 10 lbs since my release, it seems to be the 10 lbs that separates ‘sickly’ from ‘ehh - probably a distance runner’.</p>
+<p>The bad news is that I had an appointment with the surgeon this week. Here’s the relevant part of the (2 hours late and 6 minutes in length) conversation, when I asked about when my body would be ready for the next operation:</p>
+<p>Me: Timeframe?</p>
+<p>Dr: I’m thinking summer.</p>
+<p>Me. That’s… That’s hard to hear.</p>
+<p>Still trying to get over the shock of going without really eating for what will be just about a full year. Our expectations were more along the lines of January/February. He confirmed my assumption that the fistula was unlikely to heal on its own. He also said if the wound around it healed faster we could look at earlier dates. My next appt isn’t until January. Maybe I can surprise him with a healed wound by then. If you’ve got some Lourdes water, send it on over.</p>
+<p>Struggling to determine how to deal with my limitations. Some things I enjoy greatly are off the table - e.g soccer/basketball/cardio, motorcycle riding, eating out, international travel. Looks like it’ll be late summer of 2023 before any of those become possible again.</p>
+<p>Other things are do-able with restrictions or modifications. Going to a bar is possible, but I can’t really drink more than a single drink or so, and my TPN schedule usually requires that I’m home from 8PM to 8AM.</p>
+<p>I can eat whatever I want, as long as I spit it out. Mildly to solidly revolting, depending on food - So eating (among other things) is best left as a solo activity.</p>
+<p>Luckily, I’ve a thousand hobbies. I can still work, cook, weld, sew, play guitar, write, fix stuff, audit the contents of the internet… Too many hobbies, really. Trying to evaluate if I have the initiative to take this time and apply some extra focus to one or two things. As it stands - No answer - Try again later.</p>
+<p>Anyway, that’s the update. Looks like Kat and her late June guess is the only person with even an outside shot of winning the free pizza.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pizza Game]]></title>
+        <id>https://stomastrap.com/edsBlog/pizza-game</id>
+        <link href="https://stomastrap.com/edsBlog/pizza-game"/>
+        <updated>2022-10-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sorry for the lack of updates. There’s much to tell, but no breaking news of real import. Just doing my time.]]></summary>
+        <content type="html"><![CDATA[<p>Sorry for the lack of updates. There’s much to tell, but no breaking news of real import. Just doing my time.</p>
+<p>I’m still not able to eat. So here’s a little game we can play - Put your guess in the comments on the day I’ll first consume a pizza from Hutchins Garage again. Closest guess wins a pizza on me (airfare not included). People have asked me what the first thing I’ll eat will be, and that’s unfair because it’ll be whatever my health allows me to eat once my intestine is repaired. Be assured I’ll be eating a Hutchins pizza as soon as I’m allowed. So get your guesses in. On to less playful topics.</p>
+<p>Since discharge from the hospital in late August, life follows a dull routine here. All nutrition and fluids are via IV into a PICC line in my arm. This process takes about 12 hours. With few exceptions, I’m in my room drawing the shades at 7:45PM, hooked up around 8, watching TV by 8:30, upstairs at 10:30. Then it’s out of bed at 7:30AM, unhooked around 8AM. Rinse and repeat.</p>
+<p>The home health nurse comes 2x a week to change the bag around my open wound (warning: click at your own risk). Within the wound is at least one fistula, which is a hole in the small intestine. The fistula leaks fluid all day long into the wound bag. We initially had lots of issues with leaking wound bags, but seem to have that squared away in the past few weeks. I assist with the dressing removal and cleaning until looking at the wound becomes uncomfortable.</p>
+<p>Note: Observing peristalsis in an exposed small intestine is fascinating. Observing peristalsis in your exposed small intestine is unnerving.</p>
+<p>The doctors on discharge had given me some false hope that the fistula might heal on its own. Some internet research revealed that healing rates for fistulas exposed to atmospheric pressure rarely heal - A rate of less than 10% was the only published figure I could find. How could it heal, really? There’s fluid flowing through at all hours of the day. The cure for this issue is another operation, a resection where they can remove the hole and stitch the small intestine back together. Unfortunately, the guidelines state that a waiting period of at least 3 months after the initial surgery is required. It seems no one wanted to tell me in August I’d likely be missing Thanksgiving dinner. And Christmas breakfast. And Boxing Day brunch. Really, the whole kit &amp; kaboodle.</p>
+<p>The first few weeks back home were the hardest. At that time, a rinse and spit cup allowed me to at least taste some liquids. The kids got some food from a local taqueria and were good enough to grab me a big styrofoam cup of agua de jamaica, which tastes like Mexican Kool-Aid to me. It quickly became my drink of choice, although homemade and without the bracing level of sugar. Rinsing with sugar water several times a day is incompatible with dental health. The latest formulation involves dried hibiscus flowers from Compare and sugarless monk fruit extract - Tastes great.</p>
+<p>Foodless and weakened, I was unhappy. Not depressed, but sad. My positive long term prognosis keeps me from saying I was depressed. My experience with depression is that the conflict between mood and state is the most frustrating aspect. Depression to me is hopelessness, even as things are OK. That’s not my current state. I have hope, and things are very much not OK. I’m sad, and with good reason.</p>
+<p>After the first month, the surgeon messaged me to let me know I could consume liquids ‘for patient comfort’. This is also around the time I chewed up and spit out some lasagna. And then some homemade pasta with pork butt ragu. And then some Ben &amp; Jerry’s.</p>
+<p>Based on my own research (not yet peer reviewed), one can extract ~80% of the pleasure of Ben &amp; Jerry’s ice cream without ever having swallowed it. My favorite flavor, Phish Food, is chocolate with marshmallow and caramel swirl. One evening I added some additional caramel, and then thought ‘hmm - Maybe that’s too much caramel’. Incorrect. The truth is that excess hot caramel is perfectly pleasant to spit into a bowl.</p>
+<p>Chewing and spitting out food has greatly improved my mental state. I’m not happy by any means, but I’m less sad. The internet is full of warnings that this practice carries the risk of warping my relationship with food. That warning was targeted to bulimics, but it rings true in my case as well.</p>
+<p>The effect is different depending on the food. Eat and spit out an entire Big Mac - You’ll likely find a craving satisfied completely (and perhaps permanently). McDonald’s cheeseburgers, on the other hand, store well in the fridge, run less than 2 bucks, and can bear a second inspection. Honey Smacks and milk were once a vacation-only treat. Now I can drink the milk at the bottom of the bowl. And then have another bowl.</p>
+<p>Soon followed expanding interpretations of what constitutes a ‘liquid for patient comfort’. The initial reading of ‘surely this can’t mean a chocolate shake’ quickly gave way to ‘a Milky Way mini at body temperature qualifies’. As does cotton candy, M&amp;Ms, espresso with ice cream in it, a sip from a spouse’s Manhattan…</p>
+<p>Comfort is best judged by the patient, but is sadly not based on taste alone. The fistula isn’t far down into my digestive tract. The cost of a cold drink is a cool drooling sensation from my abdomen 15 minutes later. The effluent starts to fill the bag, which means a trip to the bathroom for draining. It’s a quick cycle.</p>
+<p>The short run of small bowel means there’s also no significant caloric or nutritional intake. It’d be nice to down some veggie smoothies or probiotic kimchi, but nothing’s making it that far down the line. Nothing ever makes it to my actual ostomy (at the end of what remains of the large intestine). The TPN via IV has all the nutrition I need, they say. Which is fortunate, because it’s all I’m able to get. I’d drink cream if it meant calories.</p>
+<p>I’ve gained some weight since my release, but not much. Hovering at 141lbs at the moment. The lack of weight gain coupled with my physical condition largely takes exercise off the table. The TPN dosage is already maxed out - 2800ml a night. That’s the only time my body takes in any hydration. Usually this means peeing 2 to 3 times a night. Usually after waking up.</p>
+<p>Then there are the bag leaks. The bag adheres to the skin via a wax-like adhesive that starts to decay as the dressing ages. By the 3rd day, the bad is full of chunks of loose adhesive. We endured a run of 3 Fridays where a freshly applied bag was leaking by 5PM. I say ‘we’, because a leaky bag is a whole house emergency. With no nurse available to change the dressing at that hour, we turned to friends with enough nerve to give wound care a shot. Pre-bourbon may or may not have been involved - I honestly don’t know.</p>
+<p>Stabilization of my nursing situation greatly helped things. The first 3 weeks had at least 4 different nurses attempting to change the bag. One attempt took 2-½ hours, only to spring a leak a few hours later. Now I have the same nurse every time, and we’ve done enough experimenting with pastes/creams/patterns that we have things down to a working process.</p>
+<p>My jobs: answer door, have hot water ready, take off the wound dressing, clean the wound a bit, stop wincing, cut adhesive for a patch at the top of the wound, cut and place ostomy bag.</p>
+<p>The nurse’s jobs: clean the wound after I give up, powder and coat any irritated areas, cut and apply the new wound bag, nod at dull conversational attempts from the patient.</p>
+<p>The latest leaks have all been my fault. I did some reading on a process called topical oxygen therapy that is used to speed wound healing. It works like this: expose the wound to a pure O2 atmosphere for 90 minutes a day or so, and voila - Increased healing rate. You can google it, it’s a thing, mostly for diabetic ulcers that won’t heal. But it is mentioned for surgical wounds as well. My engineering brain requires that I optimize as many conditions as possible, especially if there is additional hardware required. So a Craigslist oxygen concentrator sits in our kitchen, along with 30 feet of tubing to allow me to take my air from my TV chair.</p>
+<p>The leaks of late have been thru the hole I punch in the bag after the nurse leaves. The oxygen needs to get into the bag somehow, so a hole or slit near the top of the bag is the easiest solution. Taping over the hole provides incomplete coverage. I’ve come back from hole punching to cutting a small slit - This leaves an opening that reduces the exposure of the sealing tape to that which must be sealed in.</p>
+<p>Other orderless thoughts:</p>
+<p>The sheer amount of material involved is daunting. Every IV hookup involves alcohol wipes, saline and heparin injections, needles and tubes, and ziploc bags large enough to store a human head. Plus there’s the matter of fridge space when 2.8 liters x 7 is delivered every Wednesday. Boxes and boxes, every week.</p>
+<p>Small project of replacing our front door knob went well. Threw the included keys away, because the Smart Key system let me re-key the lock to my house keys. Days later, I installed the deadbolt as well. Only then did I recognize that those original keys were needed after all in order to re-key the deadbolt. Trash is bad enough to search. Trash full of regurgitated food? Not fun. I did find the keys, tho. Only the 2nd bag I searched. Finding them spared me a shame-filled visit to the excellent folks at Don Hill’s Lock &amp; Safe.</p>
+<p>Compliments about me keeping my sense of humor are appreciated, but I don’t feel like I had any options. I’m not physically able to eat, and yet I still love food. Many years ago, Karen’s sister tried to sell me with ‘he’s funny and he likes to cook’. Still mostly accurate. I’m still me.</p>
+<p>Haven’t tried much alcohol - Despite the ‘liquids for patient comfort’ option, I doubt bathing the wound in unabsorbed ethanol would be wise. Especially what with the pure oxygen bath I’ve been giving things. A nearby candle could be the end of me.</p>
+<p>Karen and the kids have been very supportive, which I appreciate greatly. My condition has led to a glut of TV watching every evening, and they usually watch things I’m interested in. Except ‘The Amazing Race’ - I’m tired of that one.</p>
+<p>I have no body fat, so I’m often cold. The wound bag is low enough to interfere with my waistline. So it’s all athletic shorts and sweatpants for me. The PICC line is on the inside of my arm, near the elbow - So short sleeve shirts are required. Luckily we have blankets.</p>
+<p>Went to a couple of DPAC things - If I start my injection early, I can take a break during the performance and then start things back up when I get home. Father John Misty was the first show Karen and I went to - He was backed by 9 musicians, which was much more than I expected. The next weekend, neighbors gifted us some tickets to see Steve Martin and Martin Short, which was a lot of fun. They tour with Steep Canyon Rangers - The music bits were every bit as good as the comedy numbers.</p>
+<p>Slightly conflicted at the waste of food that comes with my current consumption. I’m hesitant to go buy a more expensive burger from a local joint when I’m just going to spit it out - Hence the Mickey D’s trips. For me, it comes down to the fact that tasting food makes me a bearable person to live with. Plus I ate that expired burrata that no one else was going to touch anyway. I earned these Honey Smacks. Thoughts of rejecting my sensualist ways for a more ascetic life outlook were short lived.</p>
+<p>Working a few hours a day is good for my sanity. Going after new work and new clients seems like a low priority given everything else on the docket. I’m taking things as they come in, and that’s enough to keep me busy.</p>
+<p>I’ll stop there. Readers, I hope all is well in your world. Don’t forget to leave a pizzadate guess in the comments. ~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release Date]]></title>
+        <id>https://stomastrap.com/edsBlog/release-date</id>
+        <link href="https://stomastrap.com/edsBlog/release-date"/>
+        <updated>2022-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking like I'll be released on Wednesday, 8/24. That'll make it a full 40 days. Insert some joke about Noah's ark here. Maybe an Irish Rover's reference.]]></summary>
+        <content type="html"><![CDATA[<p>Looking like I'll be released on Wednesday, 8/24. That'll make it a full 40 days. Insert some joke about Noah's ark here. Maybe an Irish Rover's reference.</p>
+<p>I'm still not able to eat or drink anything. They're just sending me home because I'm in good enough health to take my TPN at home. Karen's been trained on how to administer it, and y'all are witnesses if I end up dead because of some kind of 'bubble in the line' accident. That said, most of that life insurance benefit would likely end up with my kids, so maybe just let her slide this once. Leave vengeance for our children or theirs.</p>
+<p>My wound dressing is a big bag stuck to my belly, with a nozzle at the bottom so I can empty it. My medical team and I will be tracking the output from the wound. A marked decrease in output signals that the small bowel fistulas may have healed. We really want the small bowel fistulas to heal, as that would allow me to start on some clear liquids and eventually progress to solid foods again.</p>
+<p>If the small bowel fistulas don't heal, then I just sit on TPN until they are ready to open me back up and try to address the fistulas. The problem with that is the amount of time I'd have to wait beforehand. They'd want to wait until the scar tissue around the bowel starts to soften up. The doctor the other day tossed around a figure like 4 months. That's a season, and not a length of time that gives me comfort. I don't want to spend 4+ months not eating. So we're trying to keep hope alive that the fistulas will actually start to heal without additional surgical intervention. It is a hopeful sign that the volume of my wound output has decreased over the past few days.</p>
+<p>As a surprise, my brother Erron flew down from Vermont to visit today. He caught me on a good day for visiting - Not much happening from a procedure standpoint, so we had all day to talk. It was a really nice surprise and one I won't soon forget.</p>
+<p>After over a month, I'm really going to not miss this place. There are some characters that I'll regret not seeing.</p>
+<p>There's the doc who was assigned to stimulate some output - A quick joke about them 'fingering my ostomy' allowed our relationship to devolve to the point they suggested I might enjoy the podcast 'My Dad Wrote a Porno'. In a place with not a lot of laughs, they gave as good as they got. Very much appreciated.</p>
+<p>Then there were nurses. So many nurses. So many good nurses, really. I've had a couple dry spells, but overall, the kindness and professionalism of the nursing staff have really helped make a difference in my stay. Even the one who ignored my pages for over an hour motivated me to go spite walk a mile. There won't be a nurse to chat with when I come in for clinic appointments over the next few months - I'll miss that.</p>
+<p>And the food tray folks... With their 3x a day room knock and entries to attempt to retrieve trays from a room that never saw one. The pain management team, with their useless vapid questions and wasted expertise. The housekeeping rep who would stop by daily to ask if I was satisfied with the housekeeping and oh I'm sorry were you sleeping. Vital signs taken at 4AM - Vital indeed. And this very evening, the dementia patient a few doors down ceaselessly bleating 'help'. I'll miss you all.</p>
+<p>OK, so that's about it. Hopefully home Wednesday, and try to get back into some kind of groove with work stuff on Thursday. First day back doesn't mean I get to lay around. I've been laying around for over a month, and not by choice. Eager to fire up my brain to make sure it still spins for at least a few hours.</p>
+<p>I'll have home health nurses come out 3x a week to change the dressing on the wound and do whatever general maintenance needs to happen. I assume I'll have to go in to see some docs every once in a while. My short-term responsibility is just to track wound output and not eat or drink anything. Should be do-able.</p>
+<p>Much like my gaping abdominal wound, I'd imagine the output to this site will slow down in the next few weeks. Major changes like permission to drink a glass of something/anything/please I'm so thirsty or the transition to solid food would warrant an entry. Anyone who drops off a plate of cookies or treats for me in the next few weeks will also likely get a write-up, but not a positive one.</p>
+<p>Glad this chapter is ending. Hopeful for more healing soon.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wound]]></title>
+        <id>https://stomastrap.com/edsBlog/the-wound</id>
+        <link href="https://stomastrap.com/edsBlog/the-wound"/>
+        <updated>2022-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hold your hands in front of you, palms down. Touch your pinkies together. Now touch your thumbs together as well. The shape you'll have made approximates the size of the open wound I have in my abdomen, 35 days into this hospital stay. I'll attach a photo - Not everyone is as squeamish as I am. Be aware my bellybutton has migrated far to the east.]]></summary>
+        <content type="html"><![CDATA[<p>Hold your hands in front of you, palms down. Touch your pinkies together. Now touch your thumbs together as well. The shape you'll have made approximates the size of the open wound I have in my abdomen, 35 days into this hospital stay. I'll attach a photo - Not everyone is as squeamish as I am. Be aware my bellybutton has migrated far to the east.</p>
+<p>They've given up on sewing the muscle layers back together for now. Far more important to get the bowels working. Can always circle around in a few months and do a hernia surgery if I'm up for that.</p>
+<p>So the status now is that I have a huge open wound that is attached to a vacuum system. The point of the vacuum system is to suck out any liquid leaking from the bowels. Evidently there are 2 damaged areas that were likely nicked when I had the procedure to move the ostomy from right to left (the same surgery this wound is from). I'm on complete bowel rest. They want nothing going thru there. The drier and less active that area is, the better chance it has to heal. If the fistulas refuse to heal, we'll get to play 'Operation!' again.</p>
+<p>A few days ago, they were allowing me small sips of Gatorade. That pretty much stopped when they noticed pooling fluid at the wound site. Orange, sweet smelling fluid. It seems even the small amounts of Gatorade I was allowed was flowing into my stomach, into the small intestines, and thru the holes into the wound crater.</p>
+<p>So no drinking for me. I get to swish and spit, which isn't the same but is better than nothing. Gatorade as mouthwash is better than mouthwash as mouthwash.</p>
+<p>It's looking like they're trying to send me home with the open wound and some equipment for feeding me via IV. Karen and I are being trained on TPN (total parenteral nutrition) - It's a bag of fluid that one of my children called my 'cum bag'. Save your criticism. Remotely parenting from a hospital bed is level 10 hard. Also, I thought it was at least a little funny. No turning back now.</p>
+<p>We'll be fully trained on the TPN by Monday. So possible mid-week release. I'll still be wildly limited in what I can do once I'm home (likely still no food/drink for a few weeks). So it'll be difficult, but hopefully not 'sleep in this hospital' difficult.</p>
+<p>Mentally I'm ready to leave this place. I don't find the TV interesting. It's hard to get into any books. I stare at the clock on the wall a lot. The minute hand moves every 15 seconds, which means it must have about 240 gear teeth on it. I have witnessed it NOT move on a few occasions. This may be observation error, or it may be a true clock defect. Frustrated to report that attempts to engage hospital administration in this matter continue to fall short. I may just have to take it apart on my own.</p>
+<p>The good news that I can share (that I haven't really up until now) is that the pathology report from the removed tissue looks good. I had no positive lymph nodes, which is a big deal because cancer spread usually happens thru the lymphatic system. It's at least a hopeful sign that I won't have to deal with distant metastasis to other locations in the future. Again, not a lock. Not trying to jinx anything here. Just some data that falls on the side we'd like it to fall on.</p>
+<p>That's about all I have to say. Thanks all for reading - It makes it easier to not have the same conversation multiple times. It's also encouraging to read your responses. Just because I don't typically reply doesn't mean I'm not reading each one.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rearrangements]]></title>
+        <id>https://stomastrap.com/edsBlog/rearrangements</id>
+        <link href="https://stomastrap.com/edsBlog/rearrangements"/>
+        <updated>2022-08-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last Friday's procedure to re-arrange my bowels ended with me still having an open wound for a belly. The wound is bandaged, but they hadn't sewn the abdomen back together so the wound could start to close. So I spent the next 2 days in bed, waiting for Monday when they said they'd stitch me back up.]]></summary>
+        <content type="html"><![CDATA[<p>Last Friday's procedure to re-arrange my bowels ended with me still having an open wound for a belly. The wound is bandaged, but they hadn't sewn the abdomen back together so the wound could start to close. So I spent the next 2 days in bed, waiting for Monday when they said they'd stitch me back up.</p>
+<p>Monday went to Tuesday. Tuesday morning brought the disappointing news that they weren't going to take any action until Wednesday. Wednesday came, and I got brought down to the OR. At this point, I hadn't left the bed since Friday, as the only things between me and disembowelment were gravity and a thin plastic bandage.</p>
+<p>There was some hemming and hawing from the anesthesia crew about me seeming out of breath (I wasn't) or febrile (99.3 isn't that far from 98.6). They proceeded to put me under for my 4th procedure since arriving. The next thing I recall hearing was something about it not all being done, and thought 'No - Keep going - I'll go right back to sleep'. After that I fully came to and was wheeled back to my room. Smiles all around, things had supposedly gone great.</p>
+<p>Karen came to visit and then looks at my belly - 'Looks the same to me'. Then she gets a voicemail from the doc - They weren't able to try to close me back up at all. They had noticed a few small issues with my small bowel and addressed those. The intestines are still acting like 10 pounds of shit that won't stuff into my 5 pound sack of an abdominal cavity.</p>
+<p>I've got no mental fortitude for this news. Waiting since Saturday, waiting expectantly since Monday, and my 'big day' Wednesday is more or less a complete wash. Me and my 1000 yard stare ask Karen to leave. The end of my 27th day here is spent binge-watching the entire Chernobyl HBO mini-series. Horrifying scenes of slow death due to acute radiation poisoning provide some positive perspective.</p>
+<p>To figure out how many days my hospital stay has stretched to, just add 17 to the current date. So by the time you read this on Thursday, I will have started my 28th day here. This neat trick will work until the end of August. After that, we'll change over to rounding by weeks.</p>
+<p>So - They still need to sew me up. Solid food since admittance is 1/2 slice French toast and 1/3 turkey sausage patty. High phlegm production plus NG tube from right nostril into stomach makes conversation laborious. Sleep is rare. On the plus side, I don't have headaches or a cold. My current bed is mostly comfortable. My pain is well controlled. Despite my frustrations, I believe in the team of doctors I've got.</p>
+<p>Just gotta keep going. ~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Familiar Sounds]]></title>
+        <id>https://stomastrap.com/edsBlog/familiar-sounds</id>
+        <link href="https://stomastrap.com/edsBlog/familiar-sounds"/>
+        <updated>2022-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Friday's 2 hour procedure stretched to 9 full hours. By the end, my bowels were so swollen that they could not fit them back in the body cavity. So I'm technically still open. They're going to close me up on Monday.]]></summary>
+        <content type="html"><![CDATA[<p>Friday's 2 hour procedure stretched to 9 full hours. By the end, my bowels were so swollen that they could not fit them back in the body cavity. So I'm technically still open. They're going to close me up on Monday.</p>
+<p>They really think it wasn't going to ever work the way it was, and they think it will work the way it is now. Sounds familiar.</p>
+<p>I've got the NG tube back again, this time in the right nostril (for fun). It was inserted while I was awake. They inserted it after they deintubated me. Also while awake. I wish none of this on any of you.</p>
+<p>I'm back in the ICU, which feels a whole lot like square one. Probably won't get out until at least Tuesday, as the king's horses and men aren't due until Monday.</p>
+<p>After I get out of the ICU, it's back to waiting for the bowel to start. And for all these new cuts to heal, ivs to disappear, drains to stop, annoyances to fade. Just a lot more waiting, for exactly the same things I was waiting for 2 weeks ago.</p>
+<p>For now I'm going to go back to sleep at 3:30 on a sunny Saturday afternoon. That passes time.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knives]]></title>
+        <id>https://stomastrap.com/edsBlog/knives</id>
+        <link href="https://stomastrap.com/edsBlog/knives"/>
+        <updated>2022-08-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[tldr: Come tomorrow, it's to be knives at dawn. Or maybe midafternoon.]]></summary>
+        <content type="html"><![CDATA[<p>tldr: Come tomorrow, it's to be knives at dawn. Or maybe midafternoon.</p>
+<p>Nurses and staff here at Duke - Even the travel nurses - Seem to ask the same questions. Inquires only yielded 'I can neither confirm nor deny that small talk training is a thing'.</p>
+<p>How'd you meet your wife? - This is a good one. I assumed that maybe bringing the conversation in this direction might also encourage good behavior towards the nursing staff. Staff asserts no positive impact in this regard. Even sexual harassment enthusiasts will chat about how they met their wives.</p>
+<p>So do you live close to here? - Yep, just 3 miles away. I could walk home from here.</p>
+<p>Do you have children? How many? - Yep - 2. 13 and 15. They're nice kids. Beating the hell out of me in Blockus in the lobby? That's them.</p>
+<p>Do you go to a church near here? - Uhhh - I'm pretty sure 'church near here' wasn't in the course materials. And you know it, or else you probably would have started that conversation when your partner was still in the room. In any case, I'm happy to describe to you my last day as a churched Christian (or Christian at all). I'm not sorry if this interrupts the flow of the tract you're about to read to me.</p>
+<p>There are no innocents here. I did subject one nurse to this conversational gambit:</p>
+<p>Me - Guess what I did today for the first time?
+Nurse - ?
+Me - Sent my first dick pic!
+Nurse - Ha!
+Me - Yeah, what with all the swelling I was getting too many questions and had to end the discussion. I'll get my wife with it later.
+Nurse - Yeah, a lot of guys I know don't understand what can happen down there when they are in here.</p>
+<p>Current status is that surgeons are tired of waiting for this ostomy. They aren't the only ones. They think that going in and moving the ostomy from my right side to my left side will free up enough bowel that things will really get flowing. I've also been assured that left side ostomy's are more 'sexy for summer'.</p>
+<p>So sometime Friday I'll be going in for another procedure that will last about 2 hours. They'll be adding at least one more hole, maybe stitching another one up, and likely opening up the main incision just a little bit maybe at the top.</p>
+<p>I've spend the past 2 days trying not to really drink or eat anything, as everything just sits in my gut and causes me pain until I burp or throw it up. I'll find out later today what time the Friday procedure is. Then we pretty much re-start this whole 'wait for the guts' charade. Still likely to have an NG tube when I wake up Friday, which means no eating right away. And I need to get another epidural, so that'll be sticking out of my back.</p>
+<p>Friday will mark the beginning of my 4th week in the hospital. Hopefully it will also be the beginning of my last week.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETA = IDK]]></title>
+        <id>https://stomastrap.com/edsBlog/eta-idk</id>
+        <link href="https://stomastrap.com/edsBlog/eta-idk"/>
+        <updated>2022-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[tldr: No idea when I'll get out of here.]]></summary>
+        <content type="html"><![CDATA[<p>tldr: No idea when I'll get out of here.</p>
+<p>I'll just hit some of the mile markers of suffering over the past few days.</p>
+<p>Transition from epidural to oral painkillers was not handled well. Left in pain overnight, I exploded on the AM rounding doctors. Yelling, light wailing, medium desperate tears. After addressing the painkiller issue, I'm offered some of the mental health services. 'There's a guy I think who plays the ukulele' To which I respond 'I don't need some jackass to come play the ukulele. I play ukulele. I AM that jackass.' Laughs all around.</p>
+<p>But seriously, don't cross this threshold, pain management team. You pulled that epidural and then left me to shake in pain, unable to procure even Tylenol.</p>
+<p>I missed this in the last update, but for a time my scrotal sac swelled so much as to subsume the shaft and testes completely. Think of a good sized grapefruit, with a nipple on it to pee from. Or maybe don't think of that. Aiming is via pelvis positioning. They did finally build me a sac sling a la Borat. Big elastic band over the neck, little satchel to tuck my junk into. The swelling has gone down and I don't need the sling anymore, but I insist on keeping it on my IV tree as a talisman.</p>
+<p>The latest cycle is that I wake up, try to eat some jello or broth, wait throughout the day thru intestinal pain, then maybe throw up because whatever it was I ate that day really didn't go anywhere. The day is filled with level 3-6 pain mostly.</p>
+<p>Had a couple days with no sleep, which left me a tired shambling dead-behind-the-eyes ghoul. Yet Karen still visited.</p>
+<p>There is one alarm here that goes off in the key and cadence of U2's 'With or Without You'. Hearing it makes me think 'With. Definitely With. You need help getting out of bed, room 3'. Sorry if that ruins the song for anyone.</p>
+<p>Had a friend bring a guitar in. Not really in a ukulele playing mood. The next day they put a huge PICC line in my right arm to feed me thru. I played 3 minutes of guitar, and the PICC line alarm started going off. I'm not getting much playing time in.</p>
+<p>Ensconced all the way in the back of my room, sleeping on the overnight guest bed. The guest bed has some firmness and support for my back. I do have a window next to me, so there is daylight.</p>
+<p>I went to basketball camp every summer as a kid. During games you could always go to the water fountain, but morning and lunch breaks were special. That's when they'd wheel out a big drink cooler of orange gatorade, and we'd all line up for icy cups. So for me, the taste of orange gatorade has unique thirst quenching abilities.</p>
+<p>As it turns out, one of the nurses here is someone I used to play pickup basketball with at the Y in downtown Durham. I had shared with her the story of basketball camp and orange gatorade. Later that week, as soon I was cleared to consume liquids, she brought over a big jug of orange that she grabbed while at a convenience store. That was a really nice thing to do.</p>
+<p>No estimates on how long it'll take for my gut to wake up. I'm on the far side of normal for sure. Not everyone gets the Friday BOGO Surgery special. My OR time alone makes me an outlier. However, once the gut wakes up, they'll want to see me eat something, keep it down, and maybe poop it out.</p>
+<p>It's really hard being here for so long. I'm mentally on tilt for at least a few hours a day. Hoping the gut gets the message. Maybe tonight is the night.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jolly Rancher Sweet Tea]]></title>
+        <id>https://stomastrap.com/edsBlog/jolly-rancher</id>
+        <link href="https://stomastrap.com/edsBlog/jolly-rancher"/>
+        <updated>2022-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[tldr: hopefully home by Saturday]]></summary>
+        <content type="html"><![CDATA[<p>tldr: hopefully home by Saturday</p>
+<p>They removed the NG tube from my nose to my stomach on Sunday night - Actually let me do the pulling. Gross and satisfying. Tube removal is a big step. Without the tube down your throat, they let you swallow things. Things like water and juice and maybe even someday (if you're good) hospital food.</p>
+<p>Then Monday was really hard. All the little pokes/prods/interruptions/procedures become overwhelming. We've been waiting for days for my ostomy to produce some output so we can proceed to a clear liquid diet. Any kind of diet sounds good. Here's a consumption summary over the first 11 days of my stay:</p>
+<p>6 Jolly Ranchers
+3 Werthers Original Caramel Hard Candies
+4 popsicles, each more disgusting than the previous
+1 teeny orange Gatorade (spread out over 36 hours, each iced sip treasured)</p>
+<p>The docs want to run a CT scan to check to see if there are any abscesses or infections in my abdomen that need attention and could explain the delay in ostomy output. They've spent the past 2 days filling me with fluid via IV to try and get my creatinine levels down. When those levels are low enough, they can use the contrast solution during the CT without fear of kidney injury.</p>
+<p>On Monday, my creatinine levels are finally low enough at 1.0 to run the CT. All I have to do is please chug this liter of oral contrast solution in the next 60 minutes.</p>
+<p>I have been craving ice water for a week. With all the fluids in my body, that craving had subsided somewhat. I've got no choice other than to start drinking. It tastes terrible. This is going to be a long hour. A nearby friend offers to stop in, and I think 'sure - that will be helpful to have someone there to cheer me on a bit - only 1 thing I need to do for the next hour'.</p>
+<p>And then the ostomy nurse arrives before my friend. Docs have asked her to change my bag and insert a rubber hose into my ostomy to maybe allow trapped things to escape. I have no mental capacity left for this. After a small display of reluctance, I present my soft underbelly and submit. It isn't painful, but it's just one more bite out of my withered sense of self. Clown nose red rubber tube poking out of me, the end coiled into the bag.</p>
+<p>We're able to visit for a short while before the docs come strolling in. They poke and gander at the tube they had asked for, and swiftly depart to the OR for someone else. They say what I've consumed so far is sufficient. I'm the private who's already dropped and given 'em 50 - Meh, 40 is enough. Take a break.</p>
+<p>Chugging leaves me bloated and slightly nauseous. I'm also mentally connecting this task with the failed bowel prep from the day before surgery. Now, we wait for the CT room to call us down. My nurse figures it'll be about an hour.</p>
+<p>At this point, I'm tapped out. I sit and read a book and close in on myself. One of the junior doctors comes back and says they don't really like the hose, they want to pull it out. Fine. Don't expect eye contact or social energy. He does a lousy job, pulling it from one end without securing the end about to exit my body. There's a little wobble and spittle of shit when the other end comes out, but we pay no major consequences for his inept technique. He leaves, saying 'CT soon'. It's 3PM.</p>
+<p>Finally at 4PM, which is 4 full hours after my chug sprint, they bring me to get the CT. I'm weak, mentally and physically. How do you feel? I'm on day 11 of a 3 day hospital stay, Ms. CT Tech.</p>
+<p>Return from the CT, lay around in bed. In pops Karen. This is the 2nd time that day she has surprise visited me - There are so few nice surprises in the hospital, and I'm grateful for these hits of dopamine. That said, I'm blown and broken and cry a little. Get it together somewhat and talk a bit. Then another friend who works at Duke stops in. More conversation. Karen takes a look at her phone, seems struck. She looks at us, and says 'I have to go - My PCR test just came back positive.'</p>
+<p>So, no more surprise visits from my wife. No more visits from her at all, really - Depending on how long our respective healing processes take. All in all, a lousy day.</p>
+<p>As night falls, I'm staring down the barrel of passing 12 hours sleepless. The beds here have some amazing technology that adjusts the pressure under every point of contact with your body. They seem to have optimized the tech to sense when you are slightly comfortable and then fix that.</p>
+<p>Even though I am still not cleared to consume anything (yes, even water) by mouth, I figure that's coming in the morning. My stomach is still in knots after the contrast chug. Fuck it, I want just a little sweet tea. Amble to the poorly guarded coffee making station, make one hot tea, use 4 sugar packets. Pour some over ice. Pretty good! Add another packet. Repeat 2x, until all 6 packets are gone into a sloshing belly full of sweet tea. It was about the only pleasure I was able to squeeze out of the day.</p>
+<p>Back to the room, and night doc stops in. Bitch about my back pain and soft bed. Minutes later, the doc is able to find one in a hall that looks firmer. Midnight bed change? Can't be worse. I've already tried jamming one of the shelves from the linen closet under my lower back (to limited success). Probably not going to sleep anyway with all that tea in me.</p>
+<p>But the nurse comes thru and times things to leave me alone. I get almost 4 hours of continuous sleep, more than any day in the past 10. And my ostomy produces something overnight, which means the docs are able to put me on at least clear liquid diet when they stop by at 7AM. They also say the CT scan looks good, no surprises.</p>
+<p>It's a new day, and we're turning the corner. I want a sweet tea to celebrate. But there's no damn sugar. Nurses can't find any, no one is coming to re-stock. I want 6 packs of sugar, and frankly don't think it should be that hard. A nurse assistant lies when they say it's coming. Finally breakfast arrives. No doubt that some of you have eagerly anticipated the 'complaining about hospital food' portion of this tale, so here it is. The right hand side of the tray is soaked in melted Italian ice juice. In the middle of this syrupy mess are 2 mostly unusable sugar packets.</p>
+<p>Take an inventory - Jolly Ranchers are sugar. So are Werthers caramels. So I go brew a hot watermelon caramel sweet tea and pour it over ice. There is no doubt the ordeal of the past 10 days has wildly warped my sense of taste. I'll drink that again, tho. May even serve it at parties.</p>
+<p>Still not sure when I'll get out of here. I need them to move me into solid foods, and they want to see those solid foods exit the body. My surgeon is headed to Egypt for a couple of weeks, which means I'll be meeting someone new Wednesday morning. I'd guess Saturday AM, but we'll see.</p>
+<p>But I think I'm thru the worst of it. It's been tremendously traumatic. I'm probably both tougher and more sensitive than when I came in. Looking forward to getting out.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
+</feed>

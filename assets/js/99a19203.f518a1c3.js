@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkssdocusite=self.webpackChunkssdocusite||[]).push([[3225],{6861:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/edsBlog/page/2","page":2,"postsPerPage":10,"totalPages":4,"totalCount":38,"previousPage":"/edsBlog","nextPage":"/edsBlog/page/3","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

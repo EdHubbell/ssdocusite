@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkssdocusite=self.webpackChunkssdocusite||[]).push([[1002],{6290:s=>{s.exports=JSON.parse('{"blogBasePath":"/edsBlog","blogTitle":"Blog","authorsListPath":"/edsBlog/authors"}')}}]);
