@@ -73,6 +73,40 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'edsBlog',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'edsBlog',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './edsBlog',
+        showReadingTime: true,
+        feedOptions: {
+          type: ['rss', 'atom'],
+          xslt: true,
+        },
+        // Please change this to your repo.
+        // Remove this to remove the "edit this page" links.
+        // editUrl:
+        //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // Useful options to enforce blogging best practices
+        onInlineTags: 'warn',
+        onInlineAuthors: 'warn',
+        onUntruncatedBlogPosts: 'warn',
+      },
+    ],
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/stomastrap-social-card.jpg',
@@ -90,6 +124,7 @@ const config: Config = {
           label: 'Info',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/edsBlog', label: 'Ed\'s Personal Blog', position: 'left'},
       ],
     },
     footer: {
