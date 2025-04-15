@@ -42,7 +42,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/sweater.svg').default,
     description: (
       <>
-        StomaStrap is slim, and hides well under your clothing. Fewer leaks means more confidence.
+        StomaStrap is slim, and can keep small leaks from reaching your clothing. Fewer leaks means more confidence.
       </>
     ),
   },

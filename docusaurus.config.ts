@@ -146,6 +146,10 @@ const config: Config = {
               label: 'Sales@StomaStrap.com',
               href: 'mailto:sales@stomastrap.com',
             },
+            {
+              label: '(919) 656-3926',
+              href: 'tel:9196563926'
+            },
           ],
         },
         {

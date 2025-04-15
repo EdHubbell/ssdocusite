@@ -1,0 +1,67 @@
+---
+sidebar_position: 1
+---
+
+import React, { useRef, Suspense } from 'react'
+import { Canvas } from '@react-three/fiber'
+import { useGLTF, OrbitControls } from '@react-three/drei'
+
+export const Model = ({ modelPath }) => {
+      const { scene } = useGLTF(modelPath);
+      return <primitive object={scene} />;
+};
+    
+export const ModelViewer = ({ modelPath }) => (
+    <Canvas camera={{
+        position: [-0.01, 0.1, 0.1], // Set initial position (x, y, z)
+        fov: 45, // Set field of view
+        near: 0.05, // Set near clipping plane
+        far: .2, // Set far clipping plane
+      }}>
+      <ambientLight intensity={100} />
+      <directionalLight position={[-2, 5, 2]} intensity={10} />
+      <Suspense>
+        <Model modelPath={modelPath} />
+      </Suspense>
+      <OrbitControls />
+    </Canvas>
+  );
+
+
+# What is a StomaStrap?
+
+Let's introduce StomaStrap and find out if it's the right ostomy appliance support system for you.
+
+ **HINT: If you have a stoma, or help someone who has one, StomaStrap might be for you.**.
+
+## The Basics
+
+StomaStrap is a device that attaches to an ostomy appliance and adds additional support. It's stronger than a typical ostomy belt. 
+StomaStrap can also help provide support for a [parastomal hernia](https://www.google.com/search?q=parastomal+hernia). 
+It can also help to prevent or contain a [prolapsed stoma](https://www.google.com/search?q=parastomal+hernia).
+
+### StomaStrap parts
+
+The StomaStrap system consists of 4 distinct parts:
+
+<ModelViewer modelPath="/models/StomaStrap_FullAssyConvaTec45mm.glb" />
+
+* Wafer Support Ring (orange)- A stiff plastic piece custom designed to fit different wafer designs. When assembled, the ring presses down on the wafer, securing it to the user. Users  select the wafer support ring that matches the wafer part number they currently use. Wafer support rings curve somewhat to match the wearer, while also compressing the body near the stoma to match the wafer.
+
+* Support Base (navy) - A flexible plastic piece that holds the wafer ring tight against the user. It has standoffs to prevent the belt from applying downward pressure directly on the stoma. 
+The support base can be used with different wafer support rings, so users can change wafers and still use the same StomaStrap base, belt span, and belt.
+
+* Belt Span (pink) - This is a flexible plastic piece that attaches the belt to the support base. It has standoffs that insert into the support base, and guide loops to run the belt through. 
+
+* Belt (not shown) - This is provided by the user. Any standard 1.5" belt should work - Users have found [canvas D-ring belts](https://www.google.com/search?q=1.5"+canvas+d-ring+belt) to be comfortable for daily use.
+
+
+### StomaStrap customization
+
+The first StomaStrap designs were tested using [ConvaTec Sur-Fit Natura 1-3/4" 411802](https://www.google.com/search?q=convatec+sur+fit+natura+411802) wafer. A split wafer support ring for Hollister 57mm wafers has also been developed.
+
+We're very interested in working with users of other wafers, or even one piece systems. Contact us at [sales@stomastrap.com](mailto:sales@stomastrap.com) or call us at [(919) 656-3926](tel:9196563926) and we'll see what we can do to help. 
+
+StomaStrap parts are custom 3D printed for each order. This manufacturing method makes it easy to change parameters to suit different users. For example, we can print taller standoffs for users with larger stomas. Our goal is to supply a custom fit device that fits your specific needs. As we grow, we will invest in the software and hardware capabilities to allow for greater customization.
+
+The designer of the StomaStrap system has worn one every day for over a year.  

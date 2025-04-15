@@ -24,7 +24,7 @@ After I created the brace, life was better. I still remember that The Cars were 
 
 Despite assurances from medical personnel that the brace was a great idea, no one asked me to make one for another patient. I tried to connect with numerous wound and ostomy professionals, and while there was some interest, to my knowledge no one has ever worn that wound bag brace but me. I've got the design posted at https://www.printables.com/model/449956-wound-bag-brace - As far as I can tell, I'm the only one who has ever worn one.
 
-It's a fact of adult life (all life, throughout multiple cultural and political backgrounds) - No one will advocate for you as strongly as you can for yourself. So if you've somehow found yourself here, and think that the StomaStrap may help you - Maybe you're right. Show the product to your health care team and see if they think it'll work for you.
+It's a fact of adult life - No one will advocate for you as strongly as you can for yourself. In fact, being an adult means that you take care of yourself. So if you've somehow found yourself here, and think that the StomaStrap may help you - Maybe you're right. Show the product to your health care team and see if they think it'll work for you. Or just buy one and try it out. I wear mine whenever I'm not sleeping.
 
 The StomaStrap uses many of the same design elements of the wound bag brace. It is focused on delivering down force on the adhesive part of the appliance. It consists of some 3D printed parts and a belt. I wear it every single day. It does seem like it might be a solution that applies to people other than me. 
 
