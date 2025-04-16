@@ -123,7 +123,9 @@ const config: Config = {
           position: 'left',
           label: 'Info',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: 'https://shop.stomastrap.com', label: 'Shop', position: 'left'},
+        {to: 'https://shop.stomastrap.com/collections/all', label: 'Catalog', position: 'left'},
+        {to: '/blog', label: 'StomaStrap Blog', position: 'left'},
         {to: '/edsBlog', label: 'Ed\'s Personal Blog', position: 'left'},
       ],
     },
@@ -135,7 +137,7 @@ const config: Config = {
           items: [
             {
               label: 'Info',
-              to: '/docs/intro',
+              to: '/docs/info',
             },
           ],
         },

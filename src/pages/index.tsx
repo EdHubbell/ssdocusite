@@ -34,7 +34,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="StomaStrap is a support system for ostomy bags. It helps keep your bag in place, and prevents leaks. Also, AI wrote this. Well, not this last part. But the first part.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
