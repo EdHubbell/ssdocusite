@@ -1,0 +1,8 @@
+{
+  "label": "My Stoma",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "How I use StomaStrap to manage my stoma.",
+  }
+}

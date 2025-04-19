@@ -33,7 +33,7 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title} - Strap that s&!t down`}
       description="StomaStrap is a support system for ostomy bags. It helps keep your bag in place, and prevents leaks. Also, AI wrote this. Well, not this last part. But the first part.">
       <HomepageHeader />
       <main>
