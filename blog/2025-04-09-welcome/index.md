@@ -20,3 +20,4 @@ Here's me in a shirt, wearing a StomaStrap. You can see it, but barely.
 And here it is on. Probably need a better photo than that, but this is a start. 
 
 ![EdInMirror](./EdWearingStomaStrap.jpg)
+
