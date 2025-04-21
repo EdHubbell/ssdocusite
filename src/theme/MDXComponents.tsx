@@ -7,6 +7,9 @@ import ImageOnClick from '@site/src/components/ImageOnClick';
 import { Canvas } from '@react-three/fiber'
 import { useGLTF, OrbitControls } from '@react-three/drei'
 
+// Importing the reactplayer for viewing videos
+import ReactPlayer from 'react-player'
+
 // Creating Model and ModelViewer components
 // Model component to load and display the 3D model
 const Model = ({ modelPath }) => {

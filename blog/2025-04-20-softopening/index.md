@@ -2,7 +2,7 @@
 slug: softopening
 title: Soft Opening
 authors: [ed]
-tags: [hello]
+tags: []
 ---
 
 Today is the first day I talked about StomaStrap in a public forum (in a Reddit thread on [/r/ostomy](https://www.reddit.com/r/ostomy/)). So someone might actually see this site. What's the plan from here?

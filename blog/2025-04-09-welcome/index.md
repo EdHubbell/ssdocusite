@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome
 authors: [ed]
-tags: [hello]
+tags: []
 ---
 
 We're going to try and get some StomaStrap devices out to ostomates. It's going to take some effort. 
