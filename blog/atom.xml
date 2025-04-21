@@ -44,7 +44,6 @@ offer customizable product via a web interface? Absolutely, if there's demand fo
             <name>Ed Hubbell</name>
             <uri>https://github.com/edhubbell</uri>
         </author>
-        <category label="Hello" term="Hello"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
@@ -63,6 +62,5 @@ offer customizable product via a web interface? Absolutely, if there's demand fo
             <name>Ed Hubbell</name>
             <uri>https://github.com/edhubbell</uri>
         </author>
-        <category label="Hello" term="Hello"/>
     </entry>
 </feed>
