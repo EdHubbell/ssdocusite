@@ -8,6 +8,7 @@ import { Canvas } from '@react-three/fiber'
 import { useGLTF, OrbitControls } from '@react-three/drei'
 
 // Importing the reactplayer for viewing videos
+// Hmm - I really thought this would work, but I still have to import it 
 import ReactPlayer from 'react-player'
 
 // Creating Model and ModelViewer components
@@ -34,10 +35,29 @@ const ModelViewer = ({ modelPath }) => (
 );
 
 
+const ContentWarning = ({ imgSrc, alt }) => {
+    const [showContent, setShowContent] = React.useState(false);
+
+    return (
+      <div>
+        <div aria-live="polite">
+          <img
+            style={{ filter: !showContent ? "blur(2.5rem)" : "none" }}
+            src={imgSrc}
+            alt={showContent ? alt : ""}
+            onClick={() => setShowContent(!showContent)}
+          />
+        </div>
+      </div>
+    );
+  }; 
+
 
 export default {
     // Reusing the default mapping
     ...MDXComponents,
     ImageOnClick,
     ModelViewer,
+    ReactPlayer,
+    ContentWarning,
 };

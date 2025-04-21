@@ -31,19 +31,28 @@ offer customizable product via a web interface? Absolutely, if there's demand fo
 
 Support for some wafer or bag that I've never seen? That's motivating. Got a wafer that we don't support, but looks like it'd work? Contact me and we'll see what we can do.
 
-Want to see where I'm coming from? You can click on the magnifying glass if you're not squeamish. <ImageOnClick imageUrl="/img/spoiler/220902/SentMeHomeLikeThis.jpg" altText="SentMeHomeLikeThis" buttonName="🔍"/>
+Want to see where I'm coming from? You can click to view you're not squeamish. 
+
+<ContentWarning imgSrc="/img/spoiler/220902/SentMeHomeLikeThis.jpg"/>
+
 
 This was me in Sept 2022. Just back from a 40 day hospital stay after complications from rectal cancer surgery. That I'm home and able to get some sleep must be why I'm smiling, because that is a hell of a wound to put a bag on. 
 
-That open abdomen contained multiple fistulae. It was like the worst ileostomy ever. Cold drinks came out cold. Here's what it took to bag it: <ImageOnClick imageUrl="/img/spoiler/220902/WoundBag.jpg" altText="WoundBag" buttonName="🔍"/>
+That open abdomen contained multiple fistulae. It was like the worst ileostomy ever. Cold drinks came out cold. Here's what it took to bag it. 
+
+<ContentWarning imgSrc="/img/spoiler/220902/WoundBag.jpg"/>
+
 
 Google photos shows we did about six months of this, with leaks almost weekly, and a dedicated WOC nurse at my house 2x a week. Finally came up with this brace: 
 
 ![BagBrace](/img/spoiler/220902/BagBrace.jpg)
 
-If you're brave and want to see what it looked like on: <ImageOnClick imageUrl="/img/spoiler/220902/EdInBagBrace.jpg" altText="EdInBagBrace" buttonName="🔍"/>
+If you want to see what it looked like on: 
 
-From that time on, I was able to go places without fear of leakage. Trips to the grocery (even though I couldn't eat). Back to working somewhat. 
+<ContentWarning imgSrc="/img/spoiler/220902/EdInBagBrace.jpg"/>
+
+
+From that time on, I was able to go places without fear of leakage. Trips to the grocery (even though I couldn't eat). Back to working on-site more often. 
 
 Lots of medical professionals said 'you should make those - people with fistulas would love that'. So I said 'Great! Give me a call, I'd be happy to make one for someone else.' No one called. 
 
