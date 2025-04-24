@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkssdocusite=self.webpackChunkssdocusite||[]).push([[6405],{7057:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Soft Opening","permalink":"/blog/softopening","unlisted":false,"date":"2025-04-20T00:00:00.000Z"},{"title":"Welcome","permalink":"/blog/welcome","unlisted":false,"date":"2025-04-09T00:00:00.000Z"}]}')}}]);

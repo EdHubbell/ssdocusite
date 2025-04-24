@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stomastrap.com/blog</id>
     <title>StomaStrap Blog</title>
-    <updated>2025-04-20T00:00:00.000Z</updated>
+    <updated>2025-04-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stomastrap.com/blog"/>
     <subtitle>StomaStrap Blog</subtitle>
     <icon>https://stomastrap.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Price Cuts]]></title>
+        <id>https://stomastrap.com/blog/pricecuts</id>
+        <link href="https://stomastrap.com/blog/pricecuts"/>
+        <updated>2025-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're cutting our prices. I could say that we've received feedback that our]]></summary>
+        <content type="html"><![CDATA[<p>We're cutting our prices. I could say that we've received feedback that our
+pricing is too high. This feedback has come in the form of only one sale of a StomaStrap system.</p>
+<p>I do know that the customer for that first system is quite satisfied.</p>
+<p>As you've probably already guessed, that first customer is me. I had to order a system just to make sure that the Shopify store even works. Plus I needed to make sure I can actually print a shipping label, etc. All those details are now squared away.</p>
+<p>So as of 4/24/25, you can still be customer #1. It'll just be order #2. And full systems are now $40, down from $70.</p>
+<p>Next steps are to work on some marketing. Maybe a video of my youngest throwing a soccer ball right at my StomaStrap. Plus maybe some product improvements.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soft Opening]]></title>
         <id>https://stomastrap.com/blog/softopening</id>

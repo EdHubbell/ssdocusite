@@ -4,10 +4,24 @@
         <title>StomaStrap Blog</title>
         <link>https://stomastrap.com/blog</link>
         <description>StomaStrap Blog</description>
-        <lastBuildDate>Sun, 20 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Price Cuts]]></title>
+            <link>https://stomastrap.com/blog/pricecuts</link>
+            <guid>https://stomastrap.com/blog/pricecuts</guid>
+            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're cutting our prices. I could say that we've received feedback that our]]></description>
+            <content:encoded><![CDATA[<p>We're cutting our prices. I could say that we've received feedback that our
+pricing is too high. This feedback has come in the form of only one sale of a StomaStrap system.</p>
+<p>I do know that the customer for that first system is quite satisfied.</p>
+<p>As you've probably already guessed, that first customer is me. I had to order a system just to make sure that the Shopify store even works. Plus I needed to make sure I can actually print a shipping label, etc. All those details are now squared away.</p>
+<p>So as of 4/24/25, you can still be customer #1. It'll just be order #2. And full systems are now $40, down from $70.</p>
+<p>Next steps are to work on some marketing. Maybe a video of my youngest throwing a soccer ball right at my StomaStrap. Plus maybe some product improvements.</p>
+<p>~Ed</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Soft Opening]]></title>
             <link>https://stomastrap.com/blog/softopening</link>
