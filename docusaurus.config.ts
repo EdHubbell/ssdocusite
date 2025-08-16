@@ -124,8 +124,6 @@ const config: Config = {
           position: 'left',
           label: 'Info',
         },
-        {to: 'https://shop.stomastrap.com', label: 'Shop', position: 'left'},
-        {to: 'https://shop.stomastrap.com/collections/all', label: 'Catalog', position: 'left'},
         {to: '/blog', label: 'StomaStrap Blog', position: 'left'},
         {to: '/edsBlog', label: 'Ed\'s Personal Blog', position: 'left'},
       ],
