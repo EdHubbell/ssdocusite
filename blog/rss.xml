@@ -4,10 +4,24 @@
         <title>StomaStrap Blog</title>
         <link>https://stomastrap.com/blog</link>
         <description>StomaStrap Blog</description>
-        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Aug 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Store Closed]]></title>
+            <link>https://stomastrap.com/blog/storeclosed</link>
+            <guid>https://stomastrap.com/blog/storeclosed</guid>
+            <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[I stopped paying Shopify after the 3 month trial ran out. The only StomaStrap I sold was to myself (to make sure the shipping labels and payment would work).]]></description>
+            <content:encoded><![CDATA[<p>I stopped paying Shopify after the 3 month trial ran out. The only StomaStrap I sold was to myself (to make sure the shipping labels and payment would work).</p>
+<p>Still wear my StomaStrap every day, still getting 1 week wear time most weeks. But I've got clients I need to do engineering work for, and this side project
+hasn't bourne much fruit.</p>
+<p>Still, it's something. Doing something is better than nothing. So there's that.</p>
+<p>Feel free to ping me if you think a StomaStrap would work for you. I can send you the files to have some nice kid at the library print them out from their
+3D printers. Or maybe I'll be your new friend and do that for you.</p>
+<p>~Ed</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Price Cuts]]></title>
             <link>https://stomastrap.com/blog/pricecuts</link>

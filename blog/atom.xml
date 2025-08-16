@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stomastrap.com/blog</id>
     <title>StomaStrap Blog</title>
-    <updated>2025-04-24T00:00:00.000Z</updated>
+    <updated>2025-08-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stomastrap.com/blog"/>
     <subtitle>StomaStrap Blog</subtitle>
     <icon>https://stomastrap.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Store Closed]]></title>
+        <id>https://stomastrap.com/blog/storeclosed</id>
+        <link href="https://stomastrap.com/blog/storeclosed"/>
+        <updated>2025-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I stopped paying Shopify after the 3 month trial ran out. The only StomaStrap I sold was to myself (to make sure the shipping labels and payment would work).]]></summary>
+        <content type="html"><![CDATA[<p>I stopped paying Shopify after the 3 month trial ran out. The only StomaStrap I sold was to myself (to make sure the shipping labels and payment would work).</p>
+<p>Still wear my StomaStrap every day, still getting 1 week wear time most weeks. But I've got clients I need to do engineering work for, and this side project
+hasn't bourne much fruit.</p>
+<p>Still, it's something. Doing something is better than nothing. So there's that.</p>
+<p>Feel free to ping me if you think a StomaStrap would work for you. I can send you the files to have some nice kid at the library print them out from their
+3D printers. Or maybe I'll be your new friend and do that for you.</p>
+<p>~Ed</p>]]></content>
+        <author>
+            <name>Ed Hubbell</name>
+            <uri>https://github.com/edhubbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Price Cuts]]></title>
         <id>https://stomastrap.com/blog/pricecuts</id>
