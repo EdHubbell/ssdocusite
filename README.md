@@ -25,7 +25,7 @@ From the ssdocusite folder in a Windows Command window:
 cmd /C "set "GIT_USER=EdHubbell" && yarn deploy"
 ```
 
-Using SSH:
+Using SSH (actually, I don't think you need to run either of these, but I'm too cowardly to delete existing documentation):
 
 ```
 $ USE_SSH=true yarn deploy
